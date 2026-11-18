@@ -1,3 +1,32 @@
+import sys
+from pathlib import Path
+
+
+if __name__ == "__main__":
+    class _Tee:
+        def __init__(self, stream, log_file):
+            self._stream = stream
+            self._log_file = log_file
+
+        def write(self, text):
+            written = self._stream.write(text)
+            self._log_file.write(text)
+            return written
+
+        def flush(self):
+            self._stream.flush()
+            self._log_file.flush()
+
+        def __getattr__(self, name):
+            return getattr(self._stream, name)
+
+    _log_file = Path(__file__).with_suffix(".log").open(
+        "a", encoding="utf-8", errors="backslashreplace", buffering=1
+    )
+    sys.stdout = _Tee(sys.stdout, _log_file)
+    sys.stderr = _Tee(sys.stderr, _log_file)
+
+
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader, random_split
 from torch import nn
