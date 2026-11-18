@@ -75,7 +75,7 @@ class MiniViT(nn.Module):
     def __init__(self):
         super().__init__()
         self.patch_embed = PatchEmbedding()
-        self.encoder = EncoderBlock(use_manual_attention=True)
+        self.encoder = EncoderBlock(use_manual_attention=False)
         self.cls_token = nn.Parameter(torch.zeros(1, 1, 32))
         self.pos_embed = nn.Parameter(0.02 * torch.randn(1, 50, 32))
         self.norm = nn.LayerNorm(32)
