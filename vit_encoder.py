@@ -38,7 +38,7 @@ class SingleHeadSelfAttention(nn.Module):
 
 
 class EncoderBlock(nn.Module):
-    def __init__(self, dim=32, heads=1, mlp_dim=64, use_manual_attention=False):
+    def __init__(self, dim=32, heads=1, mlp_dim=64, use_manual_attention=True):
         super().__init__()
         self.dim = dim
         self.heads = heads
