@@ -3,6 +3,7 @@ from pathlib import Path
 
 
 if __name__ == "__main__":
+
     class _Tee:
         def __init__(self, stream, log_file):
             self._stream = stream
@@ -20,8 +21,10 @@ if __name__ == "__main__":
         def __getattr__(self, name):
             return getattr(self._stream, name)
 
-    _log_file = Path(__file__).with_suffix(".log").open(
-        "a", encoding="utf-8", errors="backslashreplace", buffering=1
+    _log_file = (
+        Path(__file__)
+        .with_suffix(".log")
+        .open("a", encoding="utf-8", errors="backslashreplace", buffering=1)
     )
     sys.stdout = _Tee(sys.stdout, _log_file)
     sys.stderr = _Tee(sys.stderr, _log_file)
@@ -83,7 +86,7 @@ train_loader = DataLoader(dataset=train_data, batch_size=64, shuffle=True)
 
 val_loader = DataLoader(dataset=val_data, batch_size=64, shuffle=False)
 
-epochs = 20
+epochs = 200
 best_val_loss = float("inf")
 best_epoch = 0
 
