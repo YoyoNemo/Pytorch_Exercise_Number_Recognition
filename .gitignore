@@ -225,3 +225,9 @@ data/
 # Model's parameters
 *.pt
 *.pth
+
+#graphics
+*.png
+*.jpg
+*.jpeg
+*.heif
