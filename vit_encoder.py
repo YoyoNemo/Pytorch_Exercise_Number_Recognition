@@ -38,7 +38,7 @@ class SingleHeadSelfAttention(nn.Module):
 
 
 class EncoderBlock(nn.Module):
-    def __init__(self, dim=32, heads=1, mlp_dim=64, use_manual_attention=True):
+    def __init__(self, dim=32, heads=4, mlp_dim=64, use_manual_attention=False):
         super().__init__()
         self.dim = dim
         self.heads = heads
@@ -72,10 +72,12 @@ class EncoderBlock(nn.Module):
 
 
 class MiniViT(nn.Module):
-    def __init__(self):
+    def __init__(self, layers=1):
         super().__init__()
         self.patch_embed = PatchEmbedding()
-        self.encoder = EncoderBlock(use_manual_attention=False)
+        self.encoder = nn.Sequential(
+            *[EncoderBlock(use_manual_attention=False) for _ in range(layers)]
+        )
         self.cls_token = nn.Parameter(torch.zeros(1, 1, 32))
         self.pos_embed = nn.Parameter(0.02 * torch.randn(1, 50, 32))
         self.norm = nn.LayerNorm(32)
