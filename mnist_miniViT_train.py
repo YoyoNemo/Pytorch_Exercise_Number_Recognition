@@ -59,8 +59,21 @@ def evaluate(model, data_loader, loss_fn, device):
     return correct_ans, total, avg_loss, accuracy
 
 
+# exact hyperparameters as MnistViT
+model_config = {
+    "encode_layers": 9,
+    "dim": 420,
+    "heads": 28,
+    "mlp_dim": 615,
+    "image_size": 28,
+    "patch_size": 4,
+    "in_channels": 1,
+    "num_classes": 10,
+}
+
+
 def create_model():
-    return MiniViT(layers=4)
+    return MiniViT(**model_config)
 
 
 torch.manual_seed(42)

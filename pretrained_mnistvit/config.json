@@ -1,0 +1,17 @@
+{
+    "num_channels": 1,
+    "input_sizes": [
+        28,
+        28
+    ],
+    "output_size": 10,
+    "patch_size": 4,
+    "num_heads": 28,
+    "latent_size_multiplier": 15,
+    "num_layers": 9,
+    "encoder_size": 615,
+    "head_size": 88,
+    "dropout": 0.06,
+    "encoder_activation": "gelu",
+    "head_activation": "gelu"
+}

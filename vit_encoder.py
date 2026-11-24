@@ -4,16 +4,16 @@ import torch.nn.functional as F
 
 
 class PatchEmbedding(nn.Module):
-    def __init__(self, kernal_size=4, outputDim=32):
+    def __init__(self, patch_size=4, outputDim=32, in_channels=1):
         super().__init__()
-        self.kernal_size = kernal_size
-        self.inputDim = kernal_size**2
+        self.patch_size = patch_size
+        self.inputDim = in_channels * patch_size**2
         self.outputDim = outputDim
         self.proj = nn.Linear(self.inputDim, self.outputDim)
 
     def forward(self, images):
         patches = F.unfold(
-            images, kernel_size=self.kernal_size, stride=self.kernal_size
+            images, kernel_size=self.patch_size, stride=self.patch_size
         ).transpose(1, 2)
         return self.proj(patches)
 
@@ -72,16 +72,38 @@ class EncoderBlock(nn.Module):
 
 
 class MiniViT(nn.Module):
-    def __init__(self, layers=1):
+    def __init__(
+        self,
+        encode_layers=1,
+        dim=32,
+        heads=4,
+        mlp_dim=64,
+        image_size=28,
+        patch_size=4,
+        in_channels=1,
+        num_classes=10,
+        use_manual_attention=False,
+    ):
         super().__init__()
-        self.patch_embed = PatchEmbedding()
-        self.encoder = nn.Sequential(
-            *[EncoderBlock(use_manual_attention=False) for _ in range(layers)]
+        self.patch_embed = PatchEmbedding(
+            patch_size=patch_size, in_channels=in_channels, outputDim=dim
         )
-        self.cls_token = nn.Parameter(torch.zeros(1, 1, 32))
-        self.pos_embed = nn.Parameter(0.02 * torch.randn(1, 50, 32))
-        self.norm = nn.LayerNorm(32)
-        self.classifier = nn.Linear(32, 10)
+        self.encoder = nn.Sequential(
+            *[
+                EncoderBlock(
+                    dim=dim,
+                    heads=heads,
+                    mlp_dim=mlp_dim,
+                    use_manual_attention=use_manual_attention,
+                )
+                for _ in range(encode_layers)
+            ]
+        )
+        num_patches = (image_size // patch_size) ** 2
+        self.cls_token = nn.Parameter(torch.zeros(1, 1, dim))
+        self.pos_embed = nn.Parameter(0.02 * torch.randn(1, num_patches + 1, dim))
+        self.norm = nn.LayerNorm(dim)
+        self.classifier = nn.Linear(dim, num_classes)
 
     def forward(self, images):
         patches = self.patch_embed(images)
@@ -92,24 +114,3 @@ class MiniViT(nn.Module):
         final_cls = encoded[:, 0, :]
         normalized = self.norm(final_cls)
         return self.classifier(normalized)
-
-
-# Used for debuging
-if __name__ == "__main__":
-    from torchvision import datasets, transforms
-    from torch.utils.data import DataLoader
-
-    dataset = datasets.MNIST(
-        root="/home/luming/project/pytorch exercise/data",
-        train=True,
-        download=False,
-        transform=transforms.ToTensor(),
-    )
-    images, labels = next(iter(DataLoader(dataset, batch_size=2)))
-    model = MiniViT()
-    logits = model(images)
-    print("result: ", logits.shape)
-    loss = nn.CrossEntropyLoss()(logits, labels)
-    loss.backward()
-    print("pos_embed 收到梯度:", model.pos_embed.grad is not None)
-    print("loss: ", loss)
