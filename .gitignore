@@ -210,6 +210,8 @@ tempCodeRunnerFile.py
 
 # PyPI configuration file
 .pypirc
+# compiled python file
+*.pyc
 
 # Marimo
 marimo/_static/
@@ -221,10 +223,15 @@ __marimo__/
 
 # Dataset
 data/
+# External Models
+pretrained_mnistvit/
 
 # Model's parameters
 *.pt
 *.pth
+
+# model's config
+*.json
 
 #graphics
 *.png
