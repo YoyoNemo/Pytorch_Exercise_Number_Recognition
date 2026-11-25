@@ -30,12 +30,15 @@ if not checkpoint_name.lower().endswith(".pt"):
     checkpoint_name += ".pt"
 
 script_dir = Path(__file__).resolve().parent
-project_dir = script_dir.parent.parent if script_dir.parent.name == "src" else script_dir
+project_dir = (
+    script_dir.parent.parent if script_dir.parent.name == "src" else script_dir
+)
 checkpoint_path = project_dir / "par" / "MiniViT" / checkpoint_name
 checkpoint_path.parent.mkdir(parents=True, exist_ok=True)
 
 
 if __name__ == "__main__":
+
     class _Tee:
         def __init__(self, stream, log_file):
             self._stream = stream
@@ -94,10 +97,10 @@ def evaluate(model, data_loader, loss_fn, device):
 
 # exact hyperparameters as MnistViT
 model_config = {
-    "encode_layers": 9,
-    "dim": 420,
-    "heads": 28,
-    "mlp_dim": 615,
+    "encode_layers": 4,
+    "dim": 32,
+    "heads": 4,
+    "mlp_dim": 64,
     "image_size": 28,
     "patch_size": 4,
     "in_channels": 1,
@@ -196,9 +199,7 @@ print("\n----------Testing starts----------\n")
 
 best_model = create_model().to(device)
 
-saved_state = torch.load(
-    checkpoint_path, weights_only=True, map_location=device
-)
+saved_state = torch.load(checkpoint_path, weights_only=True, map_location=device)
 best_model.load_state_dict(saved_state)
 best_model.eval()
 
