@@ -78,8 +78,6 @@ flatten = nn.Flatten(start_dim=1)
 
 model = create_model().to(device)
 
-##linear = nn.Linear(in_features=28**2, out_features=10).to(device)
-
 loss_fn = nn.CrossEntropyLoss()
 
 optimizer = torch.optim.SGD(model.parameters(), lr=0.01)
@@ -154,9 +152,6 @@ for epoch in range(epochs):
 print("Training and validation done in", epochs, "epochs.\n")
 print("Best epoch: ", best_epoch)
 print("Best validation loss: ", best_val_loss)
-##state = linear.state_dict()
-##torch.save(state, "./mnist_linear_training.pt")
-##print("Parameters saved to ./mnist_linear_training.pt")
 
 print("\n----------Testing starts----------\n")
 
