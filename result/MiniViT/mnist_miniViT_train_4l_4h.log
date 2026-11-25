@@ -1,6 +1,3 @@
--------------------------------------------------
-4 layers 4 heads self attention
--------------------------------------------------
 Using device: cuda
 
 Epoch: 1 / 200
@@ -14,7 +11,7 @@ Cases tested:  10000
 Cases passed:  6298
 Accuracy:  0.6298
 Average loss:  1.1081107582092284
-Parameters in epoch 1 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 1 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 2 / 200
 ----------Training starts----------
@@ -27,7 +24,7 @@ Cases tested:  10000
 Cases passed:  7650
 Accuracy:  0.765
 Average loss:  0.6674426927566528
-Parameters in epoch 2 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 2 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 3 / 200
 ----------Training starts----------
@@ -40,7 +37,7 @@ Cases tested:  10000
 Cases passed:  8862
 Accuracy:  0.8862
 Average loss:  0.3755008032798767
-Parameters in epoch 3 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 3 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 4 / 200
 ----------Training starts----------
@@ -53,7 +50,7 @@ Cases tested:  10000
 Cases passed:  9078
 Accuracy:  0.9078
 Average loss:  0.3001511258125305
-Parameters in epoch 4 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 4 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 5 / 200
 ----------Training starts----------
@@ -78,7 +75,7 @@ Cases tested:  10000
 Cases passed:  9221
 Accuracy:  0.9221
 Average loss:  0.2430687358856201
-Parameters in epoch 6 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 6 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 7 / 200
 ----------Training starts----------
@@ -91,7 +88,7 @@ Cases tested:  10000
 Cases passed:  9281
 Accuracy:  0.9281
 Average loss:  0.2219505070447922
-Parameters in epoch 7 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 7 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 8 / 200
 ----------Training starts----------
@@ -116,7 +113,7 @@ Cases tested:  10000
 Cases passed:  9300
 Accuracy:  0.93
 Average loss:  0.22002368507385253
-Parameters in epoch 9 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 9 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 10 / 200
 ----------Training starts----------
@@ -129,7 +126,7 @@ Cases tested:  10000
 Cases passed:  9465
 Accuracy:  0.9465
 Average loss:  0.16914088621139525
-Parameters in epoch 10 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 10 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 11 / 200
 ----------Training starts----------
@@ -142,7 +139,7 @@ Cases tested:  10000
 Cases passed:  9487
 Accuracy:  0.9487
 Average loss:  0.16166368310451507
-Parameters in epoch 11 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 11 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 12 / 200
 ----------Training starts----------
@@ -167,7 +164,7 @@ Cases tested:  10000
 Cases passed:  9527
 Accuracy:  0.9527
 Average loss:  0.1522905876159668
-Parameters in epoch 13 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 13 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 14 / 200
 ----------Training starts----------
@@ -204,7 +201,7 @@ Cases tested:  10000
 Cases passed:  9547
 Accuracy:  0.9547
 Average loss:  0.14879518277645112
-Parameters in epoch 16 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 16 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 17 / 200
 ----------Training starts----------
@@ -229,7 +226,7 @@ Cases tested:  10000
 Cases passed:  9622
 Accuracy:  0.9622
 Average loss:  0.12077800115346908
-Parameters in epoch 18 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 18 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 19 / 200
 ----------Training starts----------
@@ -278,7 +275,7 @@ Cases tested:  10000
 Cases passed:  9656
 Accuracy:  0.9656
 Average loss:  0.11244399483799934
-Parameters in epoch 22 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 22 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 23 / 200
 ----------Training starts----------
@@ -315,7 +312,7 @@ Cases tested:  10000
 Cases passed:  9652
 Accuracy:  0.9652
 Average loss:  0.11104586737155914
-Parameters in epoch 25 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 25 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 26 / 200
 ----------Training starts----------
@@ -364,7 +361,7 @@ Cases tested:  10000
 Cases passed:  9684
 Accuracy:  0.9684
 Average loss:  0.10250824216008186
-Parameters in epoch 29 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 29 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 30 / 200
 ----------Training starts----------
@@ -677,7 +674,7 @@ Cases tested:  10000
 Cases passed:  9716
 Accuracy:  0.9716
 Average loss:  0.10246103172451258
-Parameters in epoch 55 is saved to ./mnist_MiniViT_training.pt
+Parameters in epoch 55 is saved to /home/nfs/users/lxu/projects/pytorch-learning/mnist/par/MiniViT/mnist_miniViT_4l_4h.pt
 
 Epoch: 56 / 200
 ----------Training starts----------
