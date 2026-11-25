@@ -1,0 +1,2437 @@
+-------------------------------------------------
+1 layer 4 heads self attention
+-------------------------------------------------
+Using device: cuda
+
+Epoch: 1 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 1.6681211354064942
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  5134
+Accuracy:  0.5134
+Average loss:  1.3659779012680053
+Parameters in epoch 1 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 2 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.7869927881622314
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  7596
+Accuracy:  0.7596
+Average loss:  0.7037374794006348
+Parameters in epoch 2 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 3 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.5120197797203064
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8407
+Accuracy:  0.8407
+Average loss:  0.4665551535606384
+Parameters in epoch 3 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 4 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.4024877396583557
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  7674
+Accuracy:  0.7674
+Average loss:  0.672224838256836
+
+Epoch: 5 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.35120378475189207
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8592
+Accuracy:  0.8592
+Average loss:  0.4307324739456177
+Parameters in epoch 5 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 6 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.31634377406597136
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8949
+Accuracy:  0.8949
+Average loss:  0.33648557119369504
+Parameters in epoch 6 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 7 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.2917506644105911
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8973
+Accuracy:  0.8973
+Average loss:  0.32477016887664795
+Parameters in epoch 7 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 8 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.27016636870622635
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9204
+Accuracy:  0.9204
+Average loss:  0.24997422876358033
+Parameters in epoch 8 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 9 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.25567825881958006
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8519
+Accuracy:  0.8519
+Average loss:  0.4451841048240662
+
+Epoch: 10 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.24209813353061677
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9029
+Accuracy:  0.9029
+Average loss:  0.30672131402492525
+
+Epoch: 11 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.22976251892328262
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9190
+Accuracy:  0.919
+Average loss:  0.25686329803466795
+
+Epoch: 12 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.22247811251163482
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9016
+Accuracy:  0.9016
+Average loss:  0.2943950813770294
+
+Epoch: 13 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.20910664274454116
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9313
+Accuracy:  0.9313
+Average loss:  0.21622222776412964
+Parameters in epoch 13 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 14 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.20062967163085937
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8402
+Accuracy:  0.8402
+Average loss:  0.5001153937339783
+
+Epoch: 15 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.19332928215503692
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8931
+Accuracy:  0.8931
+Average loss:  0.31684698715209964
+
+Epoch: 16 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.18817894969940185
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8999
+Accuracy:  0.8999
+Average loss:  0.28741489605903625
+
+Epoch: 17 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.17928490620553494
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9272
+Accuracy:  0.9272
+Average loss:  0.22838597182631493
+
+Epoch: 18 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.17458847051262855
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9405
+Accuracy:  0.9405
+Average loss:  0.18609532549977303
+Parameters in epoch 18 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 19 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.16946912415742874
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9174
+Accuracy:  0.9174
+Average loss:  0.25323933889865874
+
+Epoch: 20 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.16454060628652573
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9053
+Accuracy:  0.9053
+Average loss:  0.3015302811384201
+
+Epoch: 21 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.16160639358758927
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9376
+Accuracy:  0.9376
+Average loss:  0.20160563368201256
+
+Epoch: 22 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.15669615304350853
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8724
+Accuracy:  0.8724
+Average loss:  0.39251361520290373
+
+Epoch: 23 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.15450026873588563
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9316
+Accuracy:  0.9316
+Average loss:  0.21432194298505783
+
+Epoch: 24 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.14747140998363495
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9229
+Accuracy:  0.9229
+Average loss:  0.24994281165599824
+
+Epoch: 25 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.14656455424308776
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9424
+Accuracy:  0.9424
+Average loss:  0.1793427847146988
+Parameters in epoch 25 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 26 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.14332507507801057
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8997
+Accuracy:  0.8997
+Average loss:  0.3044432651042938
+
+Epoch: 27 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.13976166108369828
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9111
+Accuracy:  0.9111
+Average loss:  0.28410051164627076
+
+Epoch: 28 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.13832920102119445
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9445
+Accuracy:  0.9445
+Average loss:  0.1755510074853897
+Parameters in epoch 28 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 29 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.1355364126443863
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9520
+Accuracy:  0.952
+Average loss:  0.14922009657621382
+Parameters in epoch 29 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 30 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.13137515850901604
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9527
+Accuracy:  0.9527
+Average loss:  0.1576605575144291
+
+Epoch: 31 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.13077334363222123
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9469
+Accuracy:  0.9469
+Average loss:  0.17095965455770493
+
+Epoch: 32 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.12812999770641326
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9499
+Accuracy:  0.9499
+Average loss:  0.16349789943695067
+
+Epoch: 33 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.12652393231749534
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9527
+Accuracy:  0.9527
+Average loss:  0.14970324391126633
+
+Epoch: 34 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.12358123410016299
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9553
+Accuracy:  0.9553
+Average loss:  0.14445510529875755
+Parameters in epoch 34 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 35 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.1213096311879158
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9324
+Accuracy:  0.9324
+Average loss:  0.2185979787707329
+
+Epoch: 36 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.12154841622233391
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9510
+Accuracy:  0.951
+Average loss:  0.15708443108797074
+
+Epoch: 37 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.11665031056761742
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8140
+Accuracy:  0.814
+Average loss:  0.6483162817001342
+
+Epoch: 38 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.11807316545605659
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9461
+Accuracy:  0.9461
+Average loss:  0.16703377615511417
+
+Epoch: 39 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.1156823511338234
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9553
+Accuracy:  0.9553
+Average loss:  0.14402997196912765
+Parameters in epoch 39 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 40 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.1131222734117508
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9539
+Accuracy:  0.9539
+Average loss:  0.14627375728487968
+
+Epoch: 41 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.11150167962193488
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9491
+Accuracy:  0.9491
+Average loss:  0.16110279625952245
+
+Epoch: 42 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.11146829583287239
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9532
+Accuracy:  0.9532
+Average loss:  0.14815189672708512
+
+Epoch: 43 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.10758033402383327
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9458
+Accuracy:  0.9458
+Average loss:  0.16995421566963195
+
+Epoch: 44 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.106545558655262
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9552
+Accuracy:  0.9552
+Average loss:  0.14808729057312012
+
+Epoch: 45 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.10836681141734124
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9316
+Accuracy:  0.9316
+Average loss:  0.2121831582903862
+
+Epoch: 46 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.10575537249922752
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9465
+Accuracy:  0.9465
+Average loss:  0.16953663560152055
+
+Epoch: 47 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.10331044582426548
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9260
+Accuracy:  0.926
+Average loss:  0.24523282136917116
+
+Epoch: 48 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.10415219198822975
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9524
+Accuracy:  0.9524
+Average loss:  0.14418847033977508
+
+Epoch: 49 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.10244847264945507
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9559
+Accuracy:  0.9559
+Average loss:  0.1392751724779606
+Parameters in epoch 49 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 50 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.10289715331465006
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9559
+Accuracy:  0.9559
+Average loss:  0.13534885827302934
+Parameters in epoch 50 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 51 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.09964865264832974
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9602
+Accuracy:  0.9602
+Average loss:  0.12833537108898163
+Parameters in epoch 51 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 52 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.09956762739896774
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9604
+Accuracy:  0.9604
+Average loss:  0.13028581427931785
+
+Epoch: 53 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0977785329067707
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9611
+Accuracy:  0.9611
+Average loss:  0.12630491901040078
+Parameters in epoch 53 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 54 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0968304254245758
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9580
+Accuracy:  0.958
+Average loss:  0.13970803391337394
+
+Epoch: 55 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.09561539376735688
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9508
+Accuracy:  0.9508
+Average loss:  0.15718802108764648
+
+Epoch: 56 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.09551443735480308
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9156
+Accuracy:  0.9156
+Average loss:  0.2739131165266037
+
+Epoch: 57 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.09535503119409085
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9594
+Accuracy:  0.9594
+Average loss:  0.13072966323196888
+
+Epoch: 58 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0921957597798109
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9510
+Accuracy:  0.951
+Average loss:  0.15813521383106707
+
+Epoch: 59 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.09302017715916037
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9582
+Accuracy:  0.9582
+Average loss:  0.13221169654130935
+
+Epoch: 60 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.09170545950174332
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9520
+Accuracy:  0.952
+Average loss:  0.155496921646595
+
+Epoch: 61 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.09192170847088099
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9626
+Accuracy:  0.9626
+Average loss:  0.1266698659479618
+
+Epoch: 62 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.09056052355408668
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9546
+Accuracy:  0.9546
+Average loss:  0.14758020092844962
+
+Epoch: 63 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0882474642431736
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9590
+Accuracy:  0.959
+Average loss:  0.1321200974583626
+
+Epoch: 64 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0879361920952797
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9428
+Accuracy:  0.9428
+Average loss:  0.18762081810235978
+
+Epoch: 65 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08755770776748657
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9527
+Accuracy:  0.9527
+Average loss:  0.15472455056905746
+
+Epoch: 66 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08809966180682183
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9156
+Accuracy:  0.9156
+Average loss:  0.2947612998962402
+
+Epoch: 67 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08584312232226134
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9567
+Accuracy:  0.9567
+Average loss:  0.13975429982542992
+
+Epoch: 68 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08519548605561257
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8867
+Accuracy:  0.8867
+Average loss:  0.4045041709423065
+
+Epoch: 69 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08779628289937973
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9570
+Accuracy:  0.957
+Average loss:  0.14232917242050172
+
+Epoch: 70 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08375079238504171
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9480
+Accuracy:  0.948
+Average loss:  0.16319868977069854
+
+Epoch: 71 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08352235486388207
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9550
+Accuracy:  0.955
+Average loss:  0.1456988845527172
+
+Epoch: 72 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08219485660016537
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9382
+Accuracy:  0.9382
+Average loss:  0.1896901111125946
+
+Epoch: 73 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08324155471891165
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9319
+Accuracy:  0.9319
+Average loss:  0.20681951819062233
+
+Epoch: 74 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08187537031173706
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9458
+Accuracy:  0.9458
+Average loss:  0.18690384719371797
+
+Epoch: 75 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08177444256663323
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9435
+Accuracy:  0.9435
+Average loss:  0.18917780085802077
+
+Epoch: 76 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08020849087834359
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9621
+Accuracy:  0.9621
+Average loss:  0.1260052114278078
+Parameters in epoch 76 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 77 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08119152462586761
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9598
+Accuracy:  0.9598
+Average loss:  0.1286231354445219
+
+Epoch: 78 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07925429052233696
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9621
+Accuracy:  0.9621
+Average loss:  0.1275190807580948
+
+Epoch: 79 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.08045072921961546
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9641
+Accuracy:  0.9641
+Average loss:  0.1206839307308197
+Parameters in epoch 79 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 80 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07919288828015328
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9571
+Accuracy:  0.9571
+Average loss:  0.13568150868415832
+
+Epoch: 81 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07666690244197845
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9616
+Accuracy:  0.9616
+Average loss:  0.12764783398509025
+
+Epoch: 82 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07908718819409609
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9646
+Accuracy:  0.9646
+Average loss:  0.11725263070762157
+Parameters in epoch 82 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 83 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07698922766506672
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9599
+Accuracy:  0.9599
+Average loss:  0.1348466981679201
+
+Epoch: 84 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07747368685126305
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9446
+Accuracy:  0.9446
+Average loss:  0.18157518570423126
+
+Epoch: 85 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0772360544168949
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9505
+Accuracy:  0.9505
+Average loss:  0.1667311659067869
+
+Epoch: 86 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07664908873677254
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9604
+Accuracy:  0.9604
+Average loss:  0.12738960509896277
+
+Epoch: 87 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07425685153245926
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9620
+Accuracy:  0.962
+Average loss:  0.12557484647929668
+
+Epoch: 88 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0744712429061532
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9642
+Accuracy:  0.9642
+Average loss:  0.11822813128232956
+
+Epoch: 89 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0736657246285677
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9526
+Accuracy:  0.9526
+Average loss:  0.15190603308081627
+
+Epoch: 90 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07367243581950665
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9600
+Accuracy:  0.96
+Average loss:  0.13723753274977207
+
+Epoch: 91 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07322942005038262
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9647
+Accuracy:  0.9647
+Average loss:  0.1215237732976675
+
+Epoch: 92 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07264518851220608
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9659
+Accuracy:  0.9659
+Average loss:  0.11736227620244026
+
+Epoch: 93 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07207142652779817
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9619
+Accuracy:  0.9619
+Average loss:  0.12216373933255673
+
+Epoch: 94 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07156657307684422
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9623
+Accuracy:  0.9623
+Average loss:  0.13324953144192694
+
+Epoch: 95 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07125921527624131
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9240
+Accuracy:  0.924
+Average loss:  0.26075289087295533
+
+Epoch: 96 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07080959981679916
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9531
+Accuracy:  0.9531
+Average loss:  0.16019306418299675
+
+Epoch: 97 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06993491644710302
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9456
+Accuracy:  0.9456
+Average loss:  0.17222854148745537
+
+Epoch: 98 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07008630763679743
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9609
+Accuracy:  0.9609
+Average loss:  0.13032592155337333
+
+Epoch: 99 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07001555475234986
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9536
+Accuracy:  0.9536
+Average loss:  0.1551799216210842
+
+Epoch: 100 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07005840734541416
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9628
+Accuracy:  0.9628
+Average loss:  0.12943595291376114
+
+Epoch: 101 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07040223226159811
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8737
+Accuracy:  0.8737
+Average loss:  0.4173950122833252
+
+Epoch: 102 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.07002884023845196
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9630
+Accuracy:  0.963
+Average loss:  0.12165677884817123
+
+Epoch: 103 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06797243936568499
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9641
+Accuracy:  0.9641
+Average loss:  0.12285263206660747
+
+Epoch: 104 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06733020172931253
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9626
+Accuracy:  0.9626
+Average loss:  0.1237364941984415
+
+Epoch: 105 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06808629643440246
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9626
+Accuracy:  0.9626
+Average loss:  0.12329029857516288
+
+Epoch: 106 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06716449904441833
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9680
+Accuracy:  0.968
+Average loss:  0.11175767660140991
+Parameters in epoch 106 is saved to ./mnist_MiniViT_training.pt
+
+Epoch: 107 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06651880562305451
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9630
+Accuracy:  0.963
+Average loss:  0.12457620468735695
+
+Epoch: 108 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0657774926611781
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9645
+Accuracy:  0.9645
+Average loss:  0.11741799100041389
+
+Epoch: 109 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06628426837056875
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9662
+Accuracy:  0.9662
+Average loss:  0.11692266665399074
+
+Epoch: 110 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06564303277403116
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9657
+Accuracy:  0.9657
+Average loss:  0.11485456648766995
+
+Epoch: 111 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06594875489354134
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9340
+Accuracy:  0.934
+Average loss:  0.21775021650791168
+
+Epoch: 112 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06472188661538064
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9614
+Accuracy:  0.9614
+Average loss:  0.1317345820903778
+
+Epoch: 113 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0648643102863431
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9638
+Accuracy:  0.9638
+Average loss:  0.12885497955083847
+
+Epoch: 114 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06371332269817591
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9481
+Accuracy:  0.9481
+Average loss:  0.1794877741932869
+
+Epoch: 115 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06423032401978969
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9547
+Accuracy:  0.9547
+Average loss:  0.1586716317653656
+
+Epoch: 116 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06351042843580246
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9547
+Accuracy:  0.9547
+Average loss:  0.14941149312853813
+
+Epoch: 117 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06371777830451728
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9633
+Accuracy:  0.9633
+Average loss:  0.12737181897759436
+
+Epoch: 118 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0634270586913824
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9627
+Accuracy:  0.9627
+Average loss:  0.12610528788566588
+
+Epoch: 119 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06245313330590725
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9602
+Accuracy:  0.9602
+Average loss:  0.13188557029366493
+
+Epoch: 120 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0622800691896677
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9660
+Accuracy:  0.966
+Average loss:  0.12048635841161012
+
+Epoch: 121 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0634609651812911
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8989
+Accuracy:  0.8989
+Average loss:  0.34634470262527467
+
+Epoch: 122 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06168953515633941
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9601
+Accuracy:  0.9601
+Average loss:  0.14013865105509757
+
+Epoch: 123 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.062245970984846355
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9571
+Accuracy:  0.9571
+Average loss:  0.1481371052324772
+
+Epoch: 124 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06138086387425661
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9673
+Accuracy:  0.9673
+Average loss:  0.11656517207622528
+
+Epoch: 125 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06168467286139727
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9606
+Accuracy:  0.9606
+Average loss:  0.13669897743016482
+
+Epoch: 126 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.060049501223564145
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9546
+Accuracy:  0.9546
+Average loss:  0.15380765835046767
+
+Epoch: 127 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05908795630306005
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9484
+Accuracy:  0.9484
+Average loss:  0.16810692191123963
+
+Epoch: 128 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05837573408573866
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9653
+Accuracy:  0.9653
+Average loss:  0.1171129120260477
+
+Epoch: 129 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05843702757567167
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9166
+Accuracy:  0.9166
+Average loss:  0.2503229357481003
+
+Epoch: 130 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.059331559324860575
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9599
+Accuracy:  0.9599
+Average loss:  0.13988505427241327
+
+Epoch: 131 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.06010860087662935
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9627
+Accuracy:  0.9627
+Average loss:  0.1315586981713772
+
+Epoch: 132 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.059590097534507516
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9674
+Accuracy:  0.9674
+Average loss:  0.11978670397102832
+
+Epoch: 133 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.059574059989750384
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9655
+Accuracy:  0.9655
+Average loss:  0.12256600703299046
+
+Epoch: 134 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.057335601423084734
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9669
+Accuracy:  0.9669
+Average loss:  0.11862415065467358
+
+Epoch: 135 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0583053865942359
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9101
+Accuracy:  0.9101
+Average loss:  0.3121532228469849
+
+Epoch: 136 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05956039954543114
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9644
+Accuracy:  0.9644
+Average loss:  0.1265687870234251
+
+Epoch: 137 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05761230274498463
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9652
+Accuracy:  0.9652
+Average loss:  0.1184118590593338
+
+Epoch: 138 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05764002767920494
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9644
+Accuracy:  0.9644
+Average loss:  0.12137655446976424
+
+Epoch: 139 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05545769591644406
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9234
+Accuracy:  0.9234
+Average loss:  0.2559795439720154
+
+Epoch: 140 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05785237672150135
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9514
+Accuracy:  0.9514
+Average loss:  0.1651384546995163
+
+Epoch: 141 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05667074310779571
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9655
+Accuracy:  0.9655
+Average loss:  0.11850704451799393
+
+Epoch: 142 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05579472361683845
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9480
+Accuracy:  0.948
+Average loss:  0.17697982342243196
+
+Epoch: 143 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05579081462800503
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9665
+Accuracy:  0.9665
+Average loss:  0.1165687340438366
+
+Epoch: 144 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.055682624781727794
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9649
+Accuracy:  0.9649
+Average loss:  0.1219080252289772
+
+Epoch: 145 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0548945112875104
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9669
+Accuracy:  0.9669
+Average loss:  0.11852020607441664
+
+Epoch: 146 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05443029047511518
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9664
+Accuracy:  0.9664
+Average loss:  0.12090667369365692
+
+Epoch: 147 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05469203881770372
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9664
+Accuracy:  0.9664
+Average loss:  0.1170364295899868
+
+Epoch: 148 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05406608782678843
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9463
+Accuracy:  0.9463
+Average loss:  0.17938914806842804
+
+Epoch: 149 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0529491368432343
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9655
+Accuracy:  0.9655
+Average loss:  0.12232497372627259
+
+Epoch: 150 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05377376595854759
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9659
+Accuracy:  0.9659
+Average loss:  0.11777800707519054
+
+Epoch: 151 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05417013425908983
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9605
+Accuracy:  0.9605
+Average loss:  0.14039332234561444
+
+Epoch: 152 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05398045086860657
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9473
+Accuracy:  0.9473
+Average loss:  0.17746549959778785
+
+Epoch: 153 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05446620761215687
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9414
+Accuracy:  0.9414
+Average loss:  0.211258467066288
+
+Epoch: 154 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.053933339636325836
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9344
+Accuracy:  0.9344
+Average loss:  0.2490247121989727
+
+Epoch: 155 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05371372717946768
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9601
+Accuracy:  0.9601
+Average loss:  0.1396402020096779
+
+Epoch: 156 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05260560239046812
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9662
+Accuracy:  0.9662
+Average loss:  0.11583291752636432
+
+Epoch: 157 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.052440814956501124
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9662
+Accuracy:  0.9662
+Average loss:  0.12018715131878853
+
+Epoch: 158 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05274294554069638
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9643
+Accuracy:  0.9643
+Average loss:  0.12637518914043902
+
+Epoch: 159 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05184572978049517
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9622
+Accuracy:  0.9622
+Average loss:  0.1407772443830967
+
+Epoch: 160 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05222475769966841
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9677
+Accuracy:  0.9677
+Average loss:  0.11571949169933796
+
+Epoch: 161 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05208691179290414
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9593
+Accuracy:  0.9593
+Average loss:  0.14530954234600066
+
+Epoch: 162 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05071038746014237
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9607
+Accuracy:  0.9607
+Average loss:  0.13822527598440648
+
+Epoch: 163 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0507812324254401
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9602
+Accuracy:  0.9602
+Average loss:  0.137005986225605
+
+Epoch: 164 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05209847582161427
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9610
+Accuracy:  0.961
+Average loss:  0.1438658474996686
+
+Epoch: 165 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05031332136219367
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9662
+Accuracy:  0.9662
+Average loss:  0.11460709956884384
+
+Epoch: 166 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.050081713084727524
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9644
+Accuracy:  0.9644
+Average loss:  0.12852731172442436
+
+Epoch: 167 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05144478126108647
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8833
+Accuracy:  0.8833
+Average loss:  0.37989546546936037
+
+Epoch: 168 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.05110939682371914
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9665
+Accuracy:  0.9665
+Average loss:  0.12260768586397171
+
+Epoch: 169 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.0499128957413137
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9673
+Accuracy:  0.9673
+Average loss:  0.11890493525713682
+
+Epoch: 170 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04906984709352255
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9535
+Accuracy:  0.9535
+Average loss:  0.1634921468924731
+
+Epoch: 171 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04998854993134737
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8814
+Accuracy:  0.8814
+Average loss:  0.5188977644443512
+
+Epoch: 172 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.049590900331251325
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9652
+Accuracy:  0.9652
+Average loss:  0.12676764014214278
+
+Epoch: 173 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04882604187220335
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9646
+Accuracy:  0.9646
+Average loss:  0.12269964689612389
+
+Epoch: 174 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04926185152426362
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9661
+Accuracy:  0.9661
+Average loss:  0.12333200920671225
+
+Epoch: 175 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.048813177211880686
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9622
+Accuracy:  0.9622
+Average loss:  0.1407957488656044
+
+Epoch: 176 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04791060157030821
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9619
+Accuracy:  0.9619
+Average loss:  0.13054839161634446
+
+Epoch: 177 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.048231554653570055
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9675
+Accuracy:  0.9675
+Average loss:  0.11797355830669404
+
+Epoch: 178 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.047426881685853
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9641
+Accuracy:  0.9641
+Average loss:  0.13218172723352908
+
+Epoch: 179 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.048771624271273614
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9635
+Accuracy:  0.9635
+Average loss:  0.12999675873816013
+
+Epoch: 180 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04746306598506868
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9662
+Accuracy:  0.9662
+Average loss:  0.12077285685241222
+
+Epoch: 181 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04755134195074439
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9656
+Accuracy:  0.9656
+Average loss:  0.12419697524011135
+
+Epoch: 182 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.048191491092443466
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9666
+Accuracy:  0.9666
+Average loss:  0.12385497884452343
+
+Epoch: 183 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04795763174369931
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9590
+Accuracy:  0.959
+Average loss:  0.1518922873854637
+
+Epoch: 184 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04696561790429056
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9660
+Accuracy:  0.966
+Average loss:  0.12540287078022958
+
+Epoch: 185 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.047486989401727915
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9670
+Accuracy:  0.967
+Average loss:  0.12281669414788485
+
+Epoch: 186 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04714745007902384
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9629
+Accuracy:  0.9629
+Average loss:  0.13874816081523894
+
+Epoch: 187 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04738683163285255
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9624
+Accuracy:  0.9624
+Average loss:  0.13904509813785554
+
+Epoch: 188 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.044950344668328764
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9664
+Accuracy:  0.9664
+Average loss:  0.12510422932207585
+
+Epoch: 189 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.045379210306107996
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9634
+Accuracy:  0.9634
+Average loss:  0.12996530449390412
+
+Epoch: 190 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.044968756070509555
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9650
+Accuracy:  0.965
+Average loss:  0.1252437653183937
+
+Epoch: 191 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.046057363753318786
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9611
+Accuracy:  0.9611
+Average loss:  0.15019016425535084
+
+Epoch: 192 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.045763786127269265
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9672
+Accuracy:  0.9672
+Average loss:  0.1215882874161005
+
+Epoch: 193 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04514790130496025
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9669
+Accuracy:  0.9669
+Average loss:  0.12576036105006932
+
+Epoch: 194 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04460867838861071
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9642
+Accuracy:  0.9642
+Average loss:  0.13226438272595406
+
+Epoch: 195 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04481000103764236
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9664
+Accuracy:  0.9664
+Average loss:  0.12032529495954514
+
+Epoch: 196 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04404259860612452
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9660
+Accuracy:  0.966
+Average loss:  0.12065558806210756
+
+Epoch: 197 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04411017506241798
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9563
+Accuracy:  0.9563
+Average loss:  0.15798293369859456
+
+Epoch: 198 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.04340539478402585
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9620
+Accuracy:  0.962
+Average loss:  0.13544681469500064
+
+Epoch: 199 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.043961455938220026
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9532
+Accuracy:  0.9532
+Average loss:  0.1751056160569191
+
+Epoch: 200 / 200
+----------Training starts----------
+
+Training completed with 782 steps.
+Average training loss: 0.044182280716896054
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9653
+Accuracy:  0.9653
+Average loss:  0.12198284912407398
+Training and validation done in 200 epochs.
+
+Best epoch:  106
+Best validation loss:  0.11175767660140991
+
+----------Testing starts----------
+
+Cases tested:  10000
+Cases passed:  9694
+Accuracy:  0.9694
+Average loss:  0.10358666916042567

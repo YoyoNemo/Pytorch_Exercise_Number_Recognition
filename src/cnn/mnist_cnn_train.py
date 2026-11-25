@@ -1,5 +1,38 @@
+import argparse
 import sys
 from pathlib import Path
+
+
+checkpoint_name = "mnist_cnn_training.pt"
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Train a CNN on MNIST.")
+    parser.add_argument(
+        "--checkpoint",
+        metavar="NAME",
+        default=checkpoint_name,
+        help=(
+            "Weights filename in par/cnn. "
+            "The .pt suffix is optional (default: %(default)s)."
+        ),
+    )
+    checkpoint_name = parser.parse_args().checkpoint
+    if (
+        checkpoint_name in {"", ".", ".."}
+        or Path(checkpoint_name).name != checkpoint_name
+        or "\\" in checkpoint_name
+    ):
+        parser.error("--checkpoint expects a filename without a directory")
+
+
+if not checkpoint_name.lower().endswith(".pt"):
+    checkpoint_name += ".pt"
+
+script_dir = Path(__file__).resolve().parent
+project_dir = script_dir.parent.parent if script_dir.parent.name == "src" else script_dir
+checkpoint_path = project_dir / "par" / "cnn" / checkpoint_name
+checkpoint_path.parent.mkdir(parents=True, exist_ok=True)
 
 
 if __name__ == "__main__":
@@ -20,7 +53,10 @@ if __name__ == "__main__":
         def __getattr__(self, name):
             return getattr(self._stream, name)
 
-    _log_file = Path(__file__).with_suffix(".log").open(
+    log_dir = project_dir / "result" / checkpoint_path.parent.name
+    log_dir.mkdir(parents=True, exist_ok=True)
+    log_path = log_dir / checkpoint_path.with_suffix(".log").name
+    _log_file = log_path.open(
         "a", encoding="utf-8", errors="backslashreplace", buffering=1
     )
     sys.stdout = _Tee(sys.stdout, _log_file)
@@ -136,11 +172,11 @@ for epoch in range(epochs):
         best_val_loss = avg_val_loss
         best_epoch = epoch + 1
         state = model.state_dict()
-        torch.save(state, "./mnist_cnn_training.pt")
+        torch.save(state, checkpoint_path)
         print(
             "Parameters in epoch",
             best_epoch,
-            "is saved to ./mnist_cnn_training.pt",
+            f"is saved to {checkpoint_path}",
         )
 
 print("Training and validation done in", epochs, "epochs.\n")
@@ -152,7 +188,7 @@ print("\n----------Testing starts----------\n")
 best_model = create_model().to(device)
 
 saved_state = torch.load(
-    "./mnist_cnn_training.pt", weights_only=True, map_location=device
+    checkpoint_path, weights_only=True, map_location=device
 )
 best_model.load_state_dict(saved_state)
 best_model.eval()

@@ -22,7 +22,8 @@ def create_model():
     )
 
 
-project_dir = Path(__file__).resolve().parent
+script_dir = Path(__file__).resolve().parent
+project_dir = script_dir.parent.parent if script_dir.parent.name == "src" else script_dir
 
 # 用和训练时相同的随机种子，取出同一组验证图片。
 full_train_data = datasets.MNIST(
@@ -42,7 +43,7 @@ val_loader = DataLoader(val_data, batch_size=64, shuffle=False)
 
 model = create_model()
 weights = torch.load(
-    project_dir / "mnist_cnn_training.pt",
+    project_dir / "par" / "cnn" / "mnist_cnn_training.pt",
     map_location="cpu",
     weights_only=True,
 )
@@ -83,14 +84,14 @@ for ax, image in zip(axes.flat, wrong_sevens[:8]):
     ax.axis("off")
 
 fig.tight_layout()
-fig.savefig(project_dir / "mnist_7_as_9.png", dpi=150)
+fig.savefig(script_dir / "mnist_7_as_9.png", dpi=150)
 
 for ax, image in zip(axes.flat, right_sevens[:8]):
     ax.imshow(image[0], cmap="gray")
     ax.axis("off")
 
 fig.tight_layout()
-fig.savefig(project_dir / "mnist_7_as_7.png", dpi=150)
+fig.savefig(script_dir / "mnist_7_as_7.png", dpi=150)
 
 image = wrong_sevens[7].reshape(1, 1, 28, 28)
 

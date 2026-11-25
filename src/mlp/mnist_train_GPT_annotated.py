@@ -1,8 +1,41 @@
 # MNIST 手写数字识别：读取数据 -> 训练线性分类器 -> 测试 -> 保存参数。
 # 学习时重点关注：张量形状、参数与梯度、训练和评估各自的职责。
 
+import argparse
 import sys
 from pathlib import Path
+
+
+checkpoint_name = "mnist_linear_training.pt"
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Train a linear classifier on MNIST (annotated version).")
+    parser.add_argument(
+        "--checkpoint",
+        metavar="NAME",
+        default=checkpoint_name,
+        help=(
+            "Weights filename in par/mlp. "
+            "The .pt suffix is optional (default: %(default)s)."
+        ),
+    )
+    checkpoint_name = parser.parse_args().checkpoint
+    if (
+        checkpoint_name in {"", ".", ".."}
+        or Path(checkpoint_name).name != checkpoint_name
+        or "\\" in checkpoint_name
+    ):
+        parser.error("--checkpoint expects a filename without a directory")
+
+
+if not checkpoint_name.lower().endswith(".pt"):
+    checkpoint_name += ".pt"
+
+script_dir = Path(__file__).resolve().parent
+project_dir = script_dir.parent.parent if script_dir.parent.name == "src" else script_dir
+checkpoint_path = project_dir / "par" / "mlp" / checkpoint_name
+checkpoint_path.parent.mkdir(parents=True, exist_ok=True)
 
 
 if __name__ == "__main__":
@@ -23,7 +56,10 @@ if __name__ == "__main__":
         def __getattr__(self, name):
             return getattr(self._stream, name)
 
-    _log_file = Path(__file__).with_suffix(".log").open(
+    log_dir = project_dir / "result" / checkpoint_path.parent.name
+    log_dir.mkdir(parents=True, exist_ok=True)
+    log_path = log_dir / checkpoint_path.with_suffix(".log").name
+    _log_file = log_path.open(
         "a", encoding="utf-8", errors="backslashreplace", buffering=1
     )
     sys.stdout = _Tee(sys.stdout, _log_file)
@@ -120,5 +156,5 @@ print("Accuracy: " + str(correct_ans / total) + "\n")
 
 # 保存此线性层的权重和偏置；恢复时先创建相同结构，再 load_state_dict。
 state = linear.state_dict()
-torch.save(state, "./mnist_linear_training.pt")
-print("Parameters saved to ./mnist_linear_training.pt")
+torch.save(state, checkpoint_path)
+print(f"Parameters saved to {checkpoint_path}")

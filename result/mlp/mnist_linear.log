@@ -1,0 +1,3954 @@
+Using device: cpu
+
+Epoch: 1 / 200
+----------Training starts----------
+
+batch: 100 loss: 1.6416163444519043
+batch: 200 loss: 1.2763283252716064
+batch: 300 loss: 0.949718713760376
+batch: 400 loss: 0.8330516815185547
+batch: 500 loss: 0.9042141437530518
+batch: 600 loss: 0.7979408502578735
+batch: 700 loss: 0.6859211921691895
+Training completed with 782 steps.
+Average training loss: 1.0429847323226928
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8538
+Accuracy:  0.8538
+Average loss:  0.6735945293426514
+Parameters in epoch 1 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 2 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.682738721370697
+batch: 200 loss: 0.7219907641410828
+batch: 300 loss: 0.5780964493751526
+batch: 400 loss: 0.4500848650932312
+batch: 500 loss: 0.6355235576629639
+batch: 600 loss: 0.46570196747779846
+batch: 700 loss: 0.6951509118080139
+Training completed with 782 steps.
+Average training loss: 0.5850321495819092
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8712
+Accuracy:  0.8712
+Average loss:  0.532668865776062
+Parameters in epoch 2 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 3 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.5453605651855469
+batch: 200 loss: 0.6099928021430969
+batch: 300 loss: 0.36719343066215515
+batch: 400 loss: 0.5675356388092041
+batch: 500 loss: 0.5682849884033203
+batch: 600 loss: 0.46880170702934265
+batch: 700 loss: 0.4481165409088135
+Training completed with 782 steps.
+Average training loss: 0.49536759784698486
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8799
+Accuracy:  0.8799
+Average loss:  0.4754740617752075
+Parameters in epoch 3 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 4 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.5051318407058716
+batch: 200 loss: 0.46869397163391113
+batch: 300 loss: 0.4478655457496643
+batch: 400 loss: 0.5041130781173706
+batch: 500 loss: 0.4699341058731079
+batch: 600 loss: 0.4387640357017517
+batch: 700 loss: 0.4002889394760132
+Training completed with 782 steps.
+Average training loss: 0.4519510482788086
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8851
+Accuracy:  0.8851
+Average loss:  0.44285566616058347
+Parameters in epoch 4 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 5 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.635574460029602
+batch: 200 loss: 0.47213587164878845
+batch: 300 loss: 0.5528548955917358
+batch: 400 loss: 0.41472145915031433
+batch: 500 loss: 0.3725205063819885
+batch: 600 loss: 0.44941991567611694
+batch: 700 loss: 0.5349052548408508
+Training completed with 782 steps.
+Average training loss: 0.42509476578712463
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8889
+Accuracy:  0.8889
+Average loss:  0.42145885009765627
+Parameters in epoch 5 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 6 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.28954851627349854
+batch: 200 loss: 0.2724223732948303
+batch: 300 loss: 0.3481184244155884
+batch: 400 loss: 0.3417021334171295
+batch: 500 loss: 0.4192524254322052
+batch: 600 loss: 0.34078162908554077
+batch: 700 loss: 0.3892623782157898
+Training completed with 782 steps.
+Average training loss: 0.4064523265171051
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8904
+Accuracy:  0.8904
+Average loss:  0.4063567259788513
+Parameters in epoch 6 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 7 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.48642727732658386
+batch: 200 loss: 0.4681720435619354
+batch: 300 loss: 0.3523808717727661
+batch: 400 loss: 0.3463023602962494
+batch: 500 loss: 0.4189141094684601
+batch: 600 loss: 0.4811793267726898
+batch: 700 loss: 0.5283101201057434
+Training completed with 782 steps.
+Average training loss: 0.39238257040023805
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8925
+Accuracy:  0.8925
+Average loss:  0.3943743350982666
+Parameters in epoch 7 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 8 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.21983179450035095
+batch: 200 loss: 0.5179476141929626
+batch: 300 loss: 0.4796030819416046
+batch: 400 loss: 0.2509116232395172
+batch: 500 loss: 0.30366912484169006
+batch: 600 loss: 0.306671142578125
+batch: 700 loss: 0.5469479560852051
+Training completed with 782 steps.
+Average training loss: 0.3813250581455231
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8944
+Accuracy:  0.8944
+Average loss:  0.3849559385299683
+Parameters in epoch 8 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 9 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2719406187534332
+batch: 200 loss: 0.3514866530895233
+batch: 300 loss: 0.3950178325176239
+batch: 400 loss: 0.2895374000072479
+batch: 500 loss: 0.3648655116558075
+batch: 600 loss: 0.29097625613212585
+batch: 700 loss: 0.39969974756240845
+Training completed with 782 steps.
+Average training loss: 0.3723193670845032
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8962
+Accuracy:  0.8962
+Average loss:  0.37703774700164794
+Parameters in epoch 9 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 10 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3695313036441803
+batch: 200 loss: 0.3474090099334717
+batch: 300 loss: 0.44197359681129456
+batch: 400 loss: 0.39225998520851135
+batch: 500 loss: 0.41389143466949463
+batch: 600 loss: 0.33971691131591797
+batch: 700 loss: 0.5164492130279541
+Training completed with 782 steps.
+Average training loss: 0.36473230796813966
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8981
+Accuracy:  0.8981
+Average loss:  0.37087780923843383
+Parameters in epoch 10 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 11 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.18121390044689178
+batch: 200 loss: 0.3892093002796173
+batch: 300 loss: 0.35965612530708313
+batch: 400 loss: 0.23708483576774597
+batch: 500 loss: 0.3206067681312561
+batch: 600 loss: 0.45285505056381226
+batch: 700 loss: 0.32359200716018677
+Training completed with 782 steps.
+Average training loss: 0.3584057738494873
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8990
+Accuracy:  0.899
+Average loss:  0.36532838010787966
+Parameters in epoch 11 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 12 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.35891884565353394
+batch: 200 loss: 0.44474509358406067
+batch: 300 loss: 0.3677290976047516
+batch: 400 loss: 0.29704946279525757
+batch: 500 loss: 0.4967951476573944
+batch: 600 loss: 0.299103707075119
+batch: 700 loss: 0.37299615144729614
+Training completed with 782 steps.
+Average training loss: 0.35283731358528136
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  8996
+Accuracy:  0.8996
+Average loss:  0.3604481918334961
+Parameters in epoch 12 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 13 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.4276304543018341
+batch: 200 loss: 0.2378981113433838
+batch: 300 loss: 0.47788679599761963
+batch: 400 loss: 0.3095846176147461
+batch: 500 loss: 0.4859696924686432
+batch: 600 loss: 0.4142111539840698
+batch: 700 loss: 0.3690253496170044
+Training completed with 782 steps.
+Average training loss: 0.3480015556049347
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9008
+Accuracy:  0.9008
+Average loss:  0.35613021068573
+Parameters in epoch 13 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 14 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.4223712384700775
+batch: 200 loss: 0.3263326585292816
+batch: 300 loss: 0.19112557172775269
+batch: 400 loss: 0.28458157181739807
+batch: 500 loss: 0.4946408271789551
+batch: 600 loss: 0.2978399991989136
+batch: 700 loss: 0.3661310374736786
+Training completed with 782 steps.
+Average training loss: 0.3436860514879227
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9021
+Accuracy:  0.9021
+Average loss:  0.35252908992767334
+Parameters in epoch 14 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 15 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2208222895860672
+batch: 200 loss: 0.33586248755455017
+batch: 300 loss: 0.3466157913208008
+batch: 400 loss: 0.38176143169403076
+batch: 500 loss: 0.3487120270729065
+batch: 600 loss: 0.2886773943901062
+batch: 700 loss: 0.24449606239795685
+Training completed with 782 steps.
+Average training loss: 0.33976660444259643
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9026
+Accuracy:  0.9026
+Average loss:  0.3490223782539368
+Parameters in epoch 15 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 16 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.254617303609848
+batch: 200 loss: 0.39455267786979675
+batch: 300 loss: 0.32485637068748474
+batch: 400 loss: 0.6372056007385254
+batch: 500 loss: 0.2986513674259186
+batch: 600 loss: 0.5759175419807434
+batch: 700 loss: 0.4441407322883606
+Training completed with 782 steps.
+Average training loss: 0.3362131075668335
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9022
+Accuracy:  0.9022
+Average loss:  0.34666870918273923
+Parameters in epoch 16 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 17 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.26234230399131775
+batch: 200 loss: 0.2011951059103012
+batch: 300 loss: 0.4852384030818939
+batch: 400 loss: 0.41923394799232483
+batch: 500 loss: 0.1763925701379776
+batch: 600 loss: 0.21993862092494965
+batch: 700 loss: 0.3475353419780731
+Training completed with 782 steps.
+Average training loss: 0.3330390595006943
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9032
+Accuracy:  0.9032
+Average loss:  0.34380333318710327
+Parameters in epoch 17 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 18 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.26734837889671326
+batch: 200 loss: 0.39125871658325195
+batch: 300 loss: 0.3884042203426361
+batch: 400 loss: 0.277876079082489
+batch: 500 loss: 0.29315048456192017
+batch: 600 loss: 0.40426021814346313
+batch: 700 loss: 0.32901063561439514
+Training completed with 782 steps.
+Average training loss: 0.3301363352394104
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9036
+Accuracy:  0.9036
+Average loss:  0.3410405632972717
+Parameters in epoch 18 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 19 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2928215563297272
+batch: 200 loss: 0.21267090737819672
+batch: 300 loss: 0.2870519757270813
+batch: 400 loss: 0.30276671051979065
+batch: 500 loss: 0.4401165843009949
+batch: 600 loss: 0.3476998805999756
+batch: 700 loss: 0.6515678763389587
+Training completed with 782 steps.
+Average training loss: 0.32743649898529054
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9051
+Accuracy:  0.9051
+Average loss:  0.33915449109077456
+Parameters in epoch 19 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 20 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.27851900458335876
+batch: 200 loss: 0.3423680067062378
+batch: 300 loss: 0.15513122081756592
+batch: 400 loss: 0.42267248034477234
+batch: 500 loss: 0.36246010661125183
+batch: 600 loss: 0.3179502487182617
+batch: 700 loss: 0.27626049518585205
+Training completed with 782 steps.
+Average training loss: 0.3249587839984894
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9050
+Accuracy:  0.905
+Average loss:  0.3367722541332245
+Parameters in epoch 20 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 21 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3295208811759949
+batch: 200 loss: 0.3435724377632141
+batch: 300 loss: 0.22346988320350647
+batch: 400 loss: 0.29538893699645996
+batch: 500 loss: 0.28187882900238037
+batch: 600 loss: 0.2135375738143921
+batch: 700 loss: 0.24122415482997894
+Training completed with 782 steps.
+Average training loss: 0.3226635383892059
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9053
+Accuracy:  0.9053
+Average loss:  0.335104056930542
+Parameters in epoch 21 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 22 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.376629114151001
+batch: 200 loss: 0.5052414536476135
+batch: 300 loss: 0.41884246468544006
+batch: 400 loss: 0.28537648916244507
+batch: 500 loss: 0.26929178833961487
+batch: 600 loss: 0.16041679680347443
+batch: 700 loss: 0.34489691257476807
+Training completed with 782 steps.
+Average training loss: 0.32050454922676086
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9058
+Accuracy:  0.9058
+Average loss:  0.3334308775901794
+Parameters in epoch 22 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 23 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.372659832239151
+batch: 200 loss: 0.3193511664867401
+batch: 300 loss: 0.4442434012889862
+batch: 400 loss: 0.293621301651001
+batch: 500 loss: 0.5952531099319458
+batch: 600 loss: 0.2712719738483429
+batch: 700 loss: 0.22004742920398712
+Training completed with 782 steps.
+Average training loss: 0.3184437224674225
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9060
+Accuracy:  0.906
+Average loss:  0.33157823247909546
+Parameters in epoch 23 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 24 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.20345282554626465
+batch: 200 loss: 0.3432804346084595
+batch: 300 loss: 0.4633150100708008
+batch: 400 loss: 0.22423186898231506
+batch: 500 loss: 0.43164801597595215
+batch: 600 loss: 0.3940114974975586
+batch: 700 loss: 0.5504119396209717
+Training completed with 782 steps.
+Average training loss: 0.3166180447864532
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9066
+Accuracy:  0.9066
+Average loss:  0.3297748915672302
+Parameters in epoch 24 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 25 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.32168054580688477
+batch: 200 loss: 0.40731191635131836
+batch: 300 loss: 0.4925903081893921
+batch: 400 loss: 0.23628942668437958
+batch: 500 loss: 0.2612086832523346
+batch: 600 loss: 0.2937762439250946
+batch: 700 loss: 0.21384388208389282
+Training completed with 782 steps.
+Average training loss: 0.31475515939712523
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9076
+Accuracy:  0.9076
+Average loss:  0.3287962065696716
+Parameters in epoch 25 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 26 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2616015672683716
+batch: 200 loss: 0.2231840044260025
+batch: 300 loss: 0.261715829372406
+batch: 400 loss: 0.26522672176361084
+batch: 500 loss: 0.3163595497608185
+batch: 600 loss: 0.34296777844429016
+batch: 700 loss: 0.49386921525001526
+Training completed with 782 steps.
+Average training loss: 0.3130991874694824
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9070
+Accuracy:  0.907
+Average loss:  0.327319154214859
+Parameters in epoch 26 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 27 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3193550109863281
+batch: 200 loss: 0.2095203846693039
+batch: 300 loss: 0.20941460132598877
+batch: 400 loss: 0.7278000712394714
+batch: 500 loss: 0.2517581284046173
+batch: 600 loss: 0.1696500927209854
+batch: 700 loss: 0.1751917004585266
+Training completed with 782 steps.
+Average training loss: 0.3115312441492081
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9088
+Accuracy:  0.9088
+Average loss:  0.32601962909698484
+Parameters in epoch 27 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 28 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3182802200317383
+batch: 200 loss: 0.45144519209861755
+batch: 300 loss: 0.3000863194465637
+batch: 400 loss: 0.19167442619800568
+batch: 500 loss: 0.18692269921302795
+batch: 600 loss: 0.5422770380973816
+batch: 700 loss: 0.39209842681884766
+Training completed with 782 steps.
+Average training loss: 0.31005698567152024
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9090
+Accuracy:  0.909
+Average loss:  0.32527220458984374
+Parameters in epoch 28 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 29 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.374996542930603
+batch: 200 loss: 0.20789644122123718
+batch: 300 loss: 0.32856810092926025
+batch: 400 loss: 0.3480009436607361
+batch: 500 loss: 0.47765517234802246
+batch: 600 loss: 0.3275478780269623
+batch: 700 loss: 0.27156344056129456
+Training completed with 782 steps.
+Average training loss: 0.30862731080770495
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9084
+Accuracy:  0.9084
+Average loss:  0.3240555027484894
+Parameters in epoch 29 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 30 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.28159841895103455
+batch: 200 loss: 0.38841143250465393
+batch: 300 loss: 0.47981590032577515
+batch: 400 loss: 0.43519216775894165
+batch: 500 loss: 0.29767242074012756
+batch: 600 loss: 0.6701297163963318
+batch: 700 loss: 0.3078393340110779
+Training completed with 782 steps.
+Average training loss: 0.307217337474823
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9089
+Accuracy:  0.9089
+Average loss:  0.32293456072807314
+Parameters in epoch 30 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 31 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.4355682134628296
+batch: 200 loss: 0.1676333248615265
+batch: 300 loss: 0.35048389434814453
+batch: 400 loss: 0.4369749426841736
+batch: 500 loss: 0.3313140571117401
+batch: 600 loss: 0.3659752309322357
+batch: 700 loss: 0.34409981966018677
+Training completed with 782 steps.
+Average training loss: 0.30598092535972593
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9090
+Accuracy:  0.909
+Average loss:  0.3217986559391022
+Parameters in epoch 31 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 32 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.5550994873046875
+batch: 200 loss: 0.33272993564605713
+batch: 300 loss: 0.2269115000963211
+batch: 400 loss: 0.26987960934638977
+batch: 500 loss: 0.3900795578956604
+batch: 600 loss: 0.4105629622936249
+batch: 700 loss: 0.17472663521766663
+Training completed with 782 steps.
+Average training loss: 0.30475318403244017
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9094
+Accuracy:  0.9094
+Average loss:  0.3209850296974182
+Parameters in epoch 32 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 33 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.22125686705112457
+batch: 200 loss: 0.46116361021995544
+batch: 300 loss: 0.3491421639919281
+batch: 400 loss: 0.21063293516635895
+batch: 500 loss: 0.3708326816558838
+batch: 600 loss: 0.184132918715477
+batch: 700 loss: 0.19314101338386536
+Training completed with 782 steps.
+Average training loss: 0.30356875802993777
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9097
+Accuracy:  0.9097
+Average loss:  0.3202810563087463
+Parameters in epoch 33 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 34 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.4293660521507263
+batch: 200 loss: 0.24873095750808716
+batch: 300 loss: 0.3841548562049866
+batch: 400 loss: 0.36597880721092224
+batch: 500 loss: 0.3250821828842163
+batch: 600 loss: 0.28248369693756104
+batch: 700 loss: 0.4819478392601013
+Training completed with 782 steps.
+Average training loss: 0.3025203052806854
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9101
+Accuracy:  0.9101
+Average loss:  0.31905484266281126
+Parameters in epoch 34 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 35 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.38507887721061707
+batch: 200 loss: 0.15059581398963928
+batch: 300 loss: 0.2017548680305481
+batch: 400 loss: 0.19538965821266174
+batch: 500 loss: 0.24338054656982422
+batch: 600 loss: 0.2401110678911209
+batch: 700 loss: 0.4235929548740387
+Training completed with 782 steps.
+Average training loss: 0.30143629556179047
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9105
+Accuracy:  0.9105
+Average loss:  0.3182141288757324
+Parameters in epoch 35 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 36 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3541397750377655
+batch: 200 loss: 0.3910086750984192
+batch: 300 loss: 0.20516641438007355
+batch: 400 loss: 0.20485958456993103
+batch: 500 loss: 0.36526018381118774
+batch: 600 loss: 0.2792697548866272
+batch: 700 loss: 0.3719768822193146
+Training completed with 782 steps.
+Average training loss: 0.3004132910108566
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9107
+Accuracy:  0.9107
+Average loss:  0.3175254550933838
+Parameters in epoch 36 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 37 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3455723822116852
+batch: 200 loss: 0.26405441761016846
+batch: 300 loss: 0.22139185667037964
+batch: 400 loss: 0.1673101931810379
+batch: 500 loss: 0.3059461712837219
+batch: 600 loss: 0.2955707907676697
+batch: 700 loss: 0.22814872860908508
+Training completed with 782 steps.
+Average training loss: 0.29942223966598513
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9113
+Accuracy:  0.9113
+Average loss:  0.3169811975479126
+Parameters in epoch 37 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 38 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.35343948006629944
+batch: 200 loss: 0.4255213439464569
+batch: 300 loss: 0.3707769215106964
+batch: 400 loss: 0.1557941734790802
+batch: 500 loss: 0.13963893055915833
+batch: 600 loss: 0.1391093134880066
+batch: 700 loss: 0.21498775482177734
+Training completed with 782 steps.
+Average training loss: 0.2984433905696869
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9107
+Accuracy:  0.9107
+Average loss:  0.3165623310089111
+Parameters in epoch 38 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 39 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3661799132823944
+batch: 200 loss: 0.26596033573150635
+batch: 300 loss: 0.3881371021270752
+batch: 400 loss: 0.214896097779274
+batch: 500 loss: 0.3356628119945526
+batch: 600 loss: 0.5268298387527466
+batch: 700 loss: 0.348570853471756
+Training completed with 782 steps.
+Average training loss: 0.29755023971557615
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9129
+Accuracy:  0.9129
+Average loss:  0.31552901153564455
+Parameters in epoch 39 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 40 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3263833820819855
+batch: 200 loss: 0.44656622409820557
+batch: 300 loss: 0.3934149146080017
+batch: 400 loss: 0.2971801161766052
+batch: 500 loss: 0.1766992211341858
+batch: 600 loss: 0.32130712270736694
+batch: 700 loss: 0.19029459357261658
+Training completed with 782 steps.
+Average training loss: 0.2966557246875763
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9123
+Accuracy:  0.9123
+Average loss:  0.31497145533561705
+Parameters in epoch 40 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 41 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3207446336746216
+batch: 200 loss: 0.32168930768966675
+batch: 300 loss: 0.5082321166992188
+batch: 400 loss: 0.3907749652862549
+batch: 500 loss: 0.4075799286365509
+batch: 600 loss: 0.36428412795066833
+batch: 700 loss: 0.3398224413394928
+Training completed with 782 steps.
+Average training loss: 0.295817718667984
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9110
+Accuracy:  0.911
+Average loss:  0.3142790760040283
+Parameters in epoch 41 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 42 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1696888953447342
+batch: 200 loss: 0.15314844250679016
+batch: 300 loss: 0.2670302391052246
+batch: 400 loss: 0.34666332602500916
+batch: 500 loss: 0.34075209498405457
+batch: 600 loss: 0.2774219214916229
+batch: 700 loss: 0.33302491903305054
+Training completed with 782 steps.
+Average training loss: 0.2949702591276169
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9124
+Accuracy:  0.9124
+Average loss:  0.3136810821056366
+Parameters in epoch 42 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 43 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3185123801231384
+batch: 200 loss: 0.4061111509799957
+batch: 300 loss: 0.20373860001564026
+batch: 400 loss: 0.2314743846654892
+batch: 500 loss: 0.14934858679771423
+batch: 600 loss: 0.25592491030693054
+batch: 700 loss: 0.20454451441764832
+Training completed with 782 steps.
+Average training loss: 0.29421242279052734
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9123
+Accuracy:  0.9123
+Average loss:  0.3133636939525604
+Parameters in epoch 43 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 44 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.14702755212783813
+batch: 200 loss: 0.20972134172916412
+batch: 300 loss: 0.49202215671539307
+batch: 400 loss: 0.241302952170372
+batch: 500 loss: 0.32670867443084717
+batch: 600 loss: 0.38869360089302063
+batch: 700 loss: 0.20078136026859283
+Training completed with 782 steps.
+Average training loss: 0.2934117275714874
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9122
+Accuracy:  0.9122
+Average loss:  0.3127292500019073
+Parameters in epoch 44 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 45 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.14902928471565247
+batch: 200 loss: 0.24604283273220062
+batch: 300 loss: 0.3399601876735687
+batch: 400 loss: 0.2871285378932953
+batch: 500 loss: 0.5004303455352783
+batch: 600 loss: 0.25035586953163147
+batch: 700 loss: 0.5115368962287903
+Training completed with 782 steps.
+Average training loss: 0.29266337257385255
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9116
+Accuracy:  0.9116
+Average loss:  0.3121819573879242
+Parameters in epoch 45 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 46 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.22120890021324158
+batch: 200 loss: 0.568737268447876
+batch: 300 loss: 0.4171246290206909
+batch: 400 loss: 0.3126976191997528
+batch: 500 loss: 0.3782500624656677
+batch: 600 loss: 0.24695830047130585
+batch: 700 loss: 0.4159439504146576
+Training completed with 782 steps.
+Average training loss: 0.29197331498146056
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9125
+Accuracy:  0.9125
+Average loss:  0.31150462951660157
+Parameters in epoch 46 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 47 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1612863540649414
+batch: 200 loss: 0.38665127754211426
+batch: 300 loss: 0.263670951128006
+batch: 400 loss: 0.29934218525886536
+batch: 500 loss: 0.13944442570209503
+batch: 600 loss: 0.2611812949180603
+batch: 700 loss: 0.3550735414028168
+Training completed with 782 steps.
+Average training loss: 0.29120403599739075
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9131
+Accuracy:  0.9131
+Average loss:  0.3110883740901947
+Parameters in epoch 47 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 48 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.41470757126808167
+batch: 200 loss: 0.2585403323173523
+batch: 300 loss: 0.22300586104393005
+batch: 400 loss: 0.29559972882270813
+batch: 500 loss: 0.4509185254573822
+batch: 600 loss: 0.5089762210845947
+batch: 700 loss: 0.14903312921524048
+Training completed with 782 steps.
+Average training loss: 0.2905556320142746
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9129
+Accuracy:  0.9129
+Average loss:  0.3107518186092377
+Parameters in epoch 48 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 49 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.4066447913646698
+batch: 200 loss: 0.37618547677993774
+batch: 300 loss: 0.41802501678466797
+batch: 400 loss: 0.21994514763355255
+batch: 500 loss: 0.27306094765663147
+batch: 600 loss: 0.17799429595470428
+batch: 700 loss: 0.2428349405527115
+Training completed with 782 steps.
+Average training loss: 0.2898327630519867
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9130
+Accuracy:  0.913
+Average loss:  0.3100787377357483
+Parameters in epoch 49 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 50 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.29263123869895935
+batch: 200 loss: 0.1457710713148117
+batch: 300 loss: 0.4289076626300812
+batch: 400 loss: 0.26395082473754883
+batch: 500 loss: 0.5573632717132568
+batch: 600 loss: 0.20671464502811432
+batch: 700 loss: 0.5673527717590332
+Training completed with 782 steps.
+Average training loss: 0.28926533497810364
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9122
+Accuracy:  0.9122
+Average loss:  0.30995517134666445
+Parameters in epoch 50 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 51 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.23134836554527283
+batch: 200 loss: 0.14032047986984253
+batch: 300 loss: 0.3735619783401489
+batch: 400 loss: 0.216029092669487
+batch: 500 loss: 0.10752935707569122
+batch: 600 loss: 0.3302235007286072
+batch: 700 loss: 0.2510029673576355
+Training completed with 782 steps.
+Average training loss: 0.28867066159009935
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9132
+Accuracy:  0.9132
+Average loss:  0.30959299173355104
+Parameters in epoch 51 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 52 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2308146208524704
+batch: 200 loss: 0.2507851719856262
+batch: 300 loss: 0.30725276470184326
+batch: 400 loss: 0.28253084421157837
+batch: 500 loss: 0.20924115180969238
+batch: 600 loss: 0.38412466645240784
+batch: 700 loss: 0.44199034571647644
+Training completed with 782 steps.
+Average training loss: 0.28801180448532104
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9128
+Accuracy:  0.9128
+Average loss:  0.3090245404243469
+Parameters in epoch 52 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 53 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.14683808386325836
+batch: 200 loss: 0.3459808826446533
+batch: 300 loss: 0.4343244433403015
+batch: 400 loss: 0.4022447168827057
+batch: 500 loss: 0.2508402466773987
+batch: 600 loss: 0.3224402666091919
+batch: 700 loss: 0.21623565256595612
+Training completed with 782 steps.
+Average training loss: 0.28746677217245103
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9128
+Accuracy:  0.9128
+Average loss:  0.30863778290748595
+Parameters in epoch 53 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 54 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1604812890291214
+batch: 200 loss: 0.25883743166923523
+batch: 300 loss: 0.3851447105407715
+batch: 400 loss: 0.2758524417877197
+batch: 500 loss: 0.3038848340511322
+batch: 600 loss: 0.13188840448856354
+batch: 700 loss: 0.25971776247024536
+Training completed with 782 steps.
+Average training loss: 0.28687108560562136
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9130
+Accuracy:  0.913
+Average loss:  0.3083040148735046
+Parameters in epoch 54 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 55 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3789578080177307
+batch: 200 loss: 0.3262575566768646
+batch: 300 loss: 0.19799846410751343
+batch: 400 loss: 0.2376398742198944
+batch: 500 loss: 0.23404894769191742
+batch: 600 loss: 0.32524779438972473
+batch: 700 loss: 0.43349510431289673
+Training completed with 782 steps.
+Average training loss: 0.2862580675888062
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9131
+Accuracy:  0.9131
+Average loss:  0.3076756200313568
+Parameters in epoch 55 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 56 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3676377236843109
+batch: 200 loss: 0.17395910620689392
+batch: 300 loss: 0.41396239399909973
+batch: 400 loss: 0.230041041970253
+batch: 500 loss: 0.22454828023910522
+batch: 600 loss: 0.3766553997993469
+batch: 700 loss: 0.21284185349941254
+Training completed with 782 steps.
+Average training loss: 0.2857658716392517
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9141
+Accuracy:  0.9141
+Average loss:  0.30759540367126464
+Parameters in epoch 56 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 57 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3314611315727234
+batch: 200 loss: 0.2398659884929657
+batch: 300 loss: 0.1720835417509079
+batch: 400 loss: 0.5311627984046936
+batch: 500 loss: 0.30859747529029846
+batch: 600 loss: 0.17221921682357788
+batch: 700 loss: 0.24654534459114075
+Training completed with 782 steps.
+Average training loss: 0.28523144723892213
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9130
+Accuracy:  0.913
+Average loss:  0.30738391418457034
+Parameters in epoch 57 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 58 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.32084229588508606
+batch: 200 loss: 0.25732648372650146
+batch: 300 loss: 0.34338968992233276
+batch: 400 loss: 0.20865066349506378
+batch: 500 loss: 0.31081658601760864
+batch: 600 loss: 0.5710963010787964
+batch: 700 loss: 0.3658124804496765
+Training completed with 782 steps.
+Average training loss: 0.28472857135772706
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9135
+Accuracy:  0.9135
+Average loss:  0.30690842690467834
+Parameters in epoch 58 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 59 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.283700555562973
+batch: 200 loss: 0.2591113746166229
+batch: 300 loss: 0.40128985047340393
+batch: 400 loss: 0.2997984290122986
+batch: 500 loss: 0.1826012134552002
+batch: 600 loss: 0.40895500779151917
+batch: 700 loss: 0.2559514343738556
+Training completed with 782 steps.
+Average training loss: 0.2842436193847656
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9141
+Accuracy:  0.9141
+Average loss:  0.30657329640388487
+Parameters in epoch 59 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 60 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3450620770454407
+batch: 200 loss: 0.31422317028045654
+batch: 300 loss: 0.19672992825508118
+batch: 400 loss: 0.35765841603279114
+batch: 500 loss: 0.675743579864502
+batch: 600 loss: 0.2900180518627167
+batch: 700 loss: 0.22031253576278687
+Training completed with 782 steps.
+Average training loss: 0.28373975532531737
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9143
+Accuracy:  0.9143
+Average loss:  0.3064266441822052
+Parameters in epoch 60 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 61 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2980215549468994
+batch: 200 loss: 0.270046204328537
+batch: 300 loss: 0.46075868606567383
+batch: 400 loss: 0.5658901929855347
+batch: 500 loss: 0.39087530970573425
+batch: 600 loss: 0.2612835168838501
+batch: 700 loss: 0.23628085851669312
+Training completed with 782 steps.
+Average training loss: 0.2832455240726471
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9142
+Accuracy:  0.9142
+Average loss:  0.30618566751480103
+Parameters in epoch 61 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 62 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.14915870130062103
+batch: 200 loss: 0.269947350025177
+batch: 300 loss: 0.45397138595581055
+batch: 400 loss: 0.213972270488739
+batch: 500 loss: 0.4323626756668091
+batch: 600 loss: 0.2373005896806717
+batch: 700 loss: 0.22414785623550415
+Training completed with 782 steps.
+Average training loss: 0.28280662677764895
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9149
+Accuracy:  0.9149
+Average loss:  0.3059349913597107
+Parameters in epoch 62 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 63 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.33412110805511475
+batch: 200 loss: 0.2455267459154129
+batch: 300 loss: 0.17229127883911133
+batch: 400 loss: 0.28345629572868347
+batch: 500 loss: 0.15478497743606567
+batch: 600 loss: 0.3175245225429535
+batch: 700 loss: 0.3513513207435608
+Training completed with 782 steps.
+Average training loss: 0.28226212795495986
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9139
+Accuracy:  0.9139
+Average loss:  0.30533418402671814
+Parameters in epoch 63 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 64 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.4278334677219391
+batch: 200 loss: 0.174748957157135
+batch: 300 loss: 0.2751762568950653
+batch: 400 loss: 0.26604485511779785
+batch: 500 loss: 0.398660808801651
+batch: 600 loss: 0.3186514377593994
+batch: 700 loss: 0.3473612666130066
+Training completed with 782 steps.
+Average training loss: 0.28184118945121767
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9138
+Accuracy:  0.9138
+Average loss:  0.3051103360176086
+Parameters in epoch 64 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 65 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2817188799381256
+batch: 200 loss: 0.2004580944776535
+batch: 300 loss: 0.4338894784450531
+batch: 400 loss: 0.20050087571144104
+batch: 500 loss: 0.4645085632801056
+batch: 600 loss: 0.1875504106283188
+batch: 700 loss: 0.18849971890449524
+Training completed with 782 steps.
+Average training loss: 0.2813575064468384
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9141
+Accuracy:  0.9141
+Average loss:  0.30502390961647036
+Parameters in epoch 65 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 66 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1968371421098709
+batch: 200 loss: 0.12592051923274994
+batch: 300 loss: 0.14389756321907043
+batch: 400 loss: 0.19331400096416473
+batch: 500 loss: 0.5042662024497986
+batch: 600 loss: 0.5559043288230896
+batch: 700 loss: 0.30974820256233215
+Training completed with 782 steps.
+Average training loss: 0.2810259212112427
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9143
+Accuracy:  0.9143
+Average loss:  0.30460201463699343
+Parameters in epoch 66 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 67 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.15984691679477692
+batch: 200 loss: 0.31585443019866943
+batch: 300 loss: 0.2679384648799896
+batch: 400 loss: 0.46145758032798767
+batch: 500 loss: 0.3354913890361786
+batch: 600 loss: 0.1892033815383911
+batch: 700 loss: 0.39173537492752075
+Training completed with 782 steps.
+Average training loss: 0.2805069857501984
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9147
+Accuracy:  0.9147
+Average loss:  0.30452623271942136
+Parameters in epoch 67 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 68 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2986760437488556
+batch: 200 loss: 0.2507428824901581
+batch: 300 loss: 0.277760773897171
+batch: 400 loss: 0.11214081197977066
+batch: 500 loss: 0.22551903128623962
+batch: 600 loss: 0.26772716641426086
+batch: 700 loss: 0.25827765464782715
+Training completed with 782 steps.
+Average training loss: 0.2800929351043701
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9143
+Accuracy:  0.9143
+Average loss:  0.30427290625572206
+Parameters in epoch 68 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 69 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.16770461201667786
+batch: 200 loss: 0.24514338374137878
+batch: 300 loss: 0.2097720503807068
+batch: 400 loss: 0.13960157334804535
+batch: 500 loss: 0.5985769033432007
+batch: 600 loss: 0.16764333844184875
+batch: 700 loss: 0.22737732529640198
+Training completed with 782 steps.
+Average training loss: 0.27978609022140505
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9144
+Accuracy:  0.9144
+Average loss:  0.30363471727371216
+Parameters in epoch 69 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 70 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.254692018032074
+batch: 200 loss: 0.4142628014087677
+batch: 300 loss: 0.3398299515247345
+batch: 400 loss: 0.2919016182422638
+batch: 500 loss: 0.3254549503326416
+batch: 600 loss: 0.2907724976539612
+batch: 700 loss: 0.1991279423236847
+Training completed with 782 steps.
+Average training loss: 0.2793349424672127
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9137
+Accuracy:  0.9137
+Average loss:  0.30383471932411193
+
+Epoch: 71 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2585032284259796
+batch: 200 loss: 0.2186584621667862
+batch: 300 loss: 0.27544379234313965
+batch: 400 loss: 0.32720357179641724
+batch: 500 loss: 0.3341520428657532
+batch: 600 loss: 0.29902297258377075
+batch: 700 loss: 0.37945541739463806
+Training completed with 782 steps.
+Average training loss: 0.2789967903137207
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9145
+Accuracy:  0.9145
+Average loss:  0.30362637844085694
+Parameters in epoch 71 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 72 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2005378007888794
+batch: 200 loss: 0.22538945078849792
+batch: 300 loss: 0.36380934715270996
+batch: 400 loss: 0.3652494251728058
+batch: 500 loss: 0.1272035539150238
+batch: 600 loss: 0.27023568749427795
+batch: 700 loss: 0.1363813877105713
+Training completed with 782 steps.
+Average training loss: 0.2786074683260918
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9150
+Accuracy:  0.915
+Average loss:  0.30316024956703186
+Parameters in epoch 72 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 73 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3981384038925171
+batch: 200 loss: 0.2018023431301117
+batch: 300 loss: 0.339667409658432
+batch: 400 loss: 0.2283741682767868
+batch: 500 loss: 0.2567163109779358
+batch: 600 loss: 0.1733095347881317
+batch: 700 loss: 0.24091710150241852
+Training completed with 782 steps.
+Average training loss: 0.2782059874773026
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9155
+Accuracy:  0.9155
+Average loss:  0.30304397311210635
+Parameters in epoch 73 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 74 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.25612011551856995
+batch: 200 loss: 0.18904221057891846
+batch: 300 loss: 0.2812691330909729
+batch: 400 loss: 0.4497032165527344
+batch: 500 loss: 0.3543931841850281
+batch: 600 loss: 0.22494781017303467
+batch: 700 loss: 0.10115193575620651
+Training completed with 782 steps.
+Average training loss: 0.2778760828733444
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9146
+Accuracy:  0.9146
+Average loss:  0.3027193343639374
+Parameters in epoch 74 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 75 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2886514961719513
+batch: 200 loss: 0.1777442991733551
+batch: 300 loss: 0.30236318707466125
+batch: 400 loss: 0.18655790388584137
+batch: 500 loss: 0.2296900898218155
+batch: 600 loss: 0.3001277446746826
+batch: 700 loss: 0.18885540962219238
+Training completed with 782 steps.
+Average training loss: 0.27752987957954406
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9153
+Accuracy:  0.9153
+Average loss:  0.30266193280220033
+Parameters in epoch 75 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 76 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2964828312397003
+batch: 200 loss: 0.26140931248664856
+batch: 300 loss: 0.31214532256126404
+batch: 400 loss: 0.5046449899673462
+batch: 500 loss: 0.2654730975627899
+batch: 600 loss: 0.23856233060359955
+batch: 700 loss: 0.164513498544693
+Training completed with 782 steps.
+Average training loss: 0.2771536328881979
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9146
+Accuracy:  0.9146
+Average loss:  0.3022696937084198
+Parameters in epoch 76 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 77 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2095516473054886
+batch: 200 loss: 0.3389342427253723
+batch: 300 loss: 0.2554948329925537
+batch: 400 loss: 0.4986801743507385
+batch: 500 loss: 0.21043632924556732
+batch: 600 loss: 0.21940428018569946
+batch: 700 loss: 0.2770320475101471
+Training completed with 782 steps.
+Average training loss: 0.27674129190444946
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9148
+Accuracy:  0.9148
+Average loss:  0.3023179142475128
+
+Epoch: 78 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.20971831679344177
+batch: 200 loss: 0.15743498504161835
+batch: 300 loss: 0.32158809900283813
+batch: 400 loss: 0.16038474440574646
+batch: 500 loss: 0.3359402120113373
+batch: 600 loss: 0.1979350447654724
+batch: 700 loss: 0.4120277464389801
+Training completed with 782 steps.
+Average training loss: 0.2764208873605728
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9153
+Accuracy:  0.9153
+Average loss:  0.3017646368980408
+Parameters in epoch 78 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 79 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1898038685321808
+batch: 200 loss: 0.3721175193786621
+batch: 300 loss: 0.2725134789943695
+batch: 400 loss: 0.25025370717048645
+batch: 500 loss: 0.4120904207229614
+batch: 600 loss: 0.16779862344264984
+batch: 700 loss: 0.38521313667297363
+Training completed with 782 steps.
+Average training loss: 0.27607780960083006
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9148
+Accuracy:  0.9148
+Average loss:  0.3018037929534912
+
+Epoch: 80 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.12662546336650848
+batch: 200 loss: 0.27906689047813416
+batch: 300 loss: 0.11965944617986679
+batch: 400 loss: 0.44266170263290405
+batch: 500 loss: 0.4641989767551422
+batch: 600 loss: 0.17207762598991394
+batch: 700 loss: 0.2139682024717331
+Training completed with 782 steps.
+Average training loss: 0.27577974308252334
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9156
+Accuracy:  0.9156
+Average loss:  0.3016882848739624
+Parameters in epoch 80 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 81 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.4346061050891876
+batch: 200 loss: 0.18544524908065796
+batch: 300 loss: 0.24925120174884796
+batch: 400 loss: 0.36043035984039307
+batch: 500 loss: 0.11514714360237122
+batch: 600 loss: 0.1569703221321106
+batch: 700 loss: 0.3251568377017975
+Training completed with 782 steps.
+Average training loss: 0.27544654935836793
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9155
+Accuracy:  0.9155
+Average loss:  0.30149068565368653
+Parameters in epoch 81 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 82 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.20677809417247772
+batch: 200 loss: 0.16491763293743134
+batch: 300 loss: 0.09423233568668365
+batch: 400 loss: 0.21110790967941284
+batch: 500 loss: 0.1583569347858429
+batch: 600 loss: 0.32111015915870667
+batch: 700 loss: 0.23426227271556854
+Training completed with 782 steps.
+Average training loss: 0.27516518023967745
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9156
+Accuracy:  0.9156
+Average loss:  0.3013413977146149
+Parameters in epoch 82 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 83 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3822835087776184
+batch: 200 loss: 0.4461210072040558
+batch: 300 loss: 0.33843371272087097
+batch: 400 loss: 0.37917274236679077
+batch: 500 loss: 0.17710797488689423
+batch: 600 loss: 0.4192121624946594
+batch: 700 loss: 0.20458267629146576
+Training completed with 782 steps.
+Average training loss: 0.2748130274569988
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9162
+Accuracy:  0.9162
+Average loss:  0.30103642201423647
+Parameters in epoch 83 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 84 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.22732432186603546
+batch: 200 loss: 0.19901537895202637
+batch: 300 loss: 0.14489153027534485
+batch: 400 loss: 0.15434809029102325
+batch: 500 loss: 0.13513843715190887
+batch: 600 loss: 0.14683391153812408
+batch: 700 loss: 0.36054742336273193
+Training completed with 782 steps.
+Average training loss: 0.2744781963825226
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9159
+Accuracy:  0.9159
+Average loss:  0.30107931361198426
+
+Epoch: 85 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.20741578936576843
+batch: 200 loss: 0.35437527298927307
+batch: 300 loss: 0.282012939453125
+batch: 400 loss: 0.13736972212791443
+batch: 500 loss: 0.228661447763443
+batch: 600 loss: 0.1808481365442276
+batch: 700 loss: 0.47314268350601196
+Training completed with 782 steps.
+Average training loss: 0.2742180849528313
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9162
+Accuracy:  0.9162
+Average loss:  0.3006785969734192
+Parameters in epoch 85 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 86 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.22588030993938446
+batch: 200 loss: 0.17302696406841278
+batch: 300 loss: 0.2267151176929474
+batch: 400 loss: 0.4072919487953186
+batch: 500 loss: 0.23537293076515198
+batch: 600 loss: 0.2560488283634186
+batch: 700 loss: 0.4864671528339386
+Training completed with 782 steps.
+Average training loss: 0.2738778183412552
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9162
+Accuracy:  0.9162
+Average loss:  0.3006443126678467
+Parameters in epoch 86 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 87 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.4804888069629669
+batch: 200 loss: 0.38428375124931335
+batch: 300 loss: 0.2074763923883438
+batch: 400 loss: 0.17971967160701752
+batch: 500 loss: 0.1171739250421524
+batch: 600 loss: 0.24816206097602844
+batch: 700 loss: 0.25666487216949463
+Training completed with 782 steps.
+Average training loss: 0.273572525510788
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9158
+Accuracy:  0.9158
+Average loss:  0.3009075376033783
+
+Epoch: 88 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.19684474170207977
+batch: 200 loss: 0.29670044779777527
+batch: 300 loss: 0.29512396454811096
+batch: 400 loss: 0.21418480575084686
+batch: 500 loss: 0.14261691272258759
+batch: 600 loss: 0.2276976853609085
+batch: 700 loss: 0.13570253551006317
+Training completed with 782 steps.
+Average training loss: 0.27333524420142175
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9164
+Accuracy:  0.9164
+Average loss:  0.3004047472000122
+Parameters in epoch 88 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 89 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.21129067242145538
+batch: 200 loss: 0.23650042712688446
+batch: 300 loss: 0.3645736873149872
+batch: 400 loss: 0.2132195681333542
+batch: 500 loss: 0.2499769628047943
+batch: 600 loss: 0.23555296659469604
+batch: 700 loss: 0.21027778089046478
+Training completed with 782 steps.
+Average training loss: 0.2730305351448059
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9156
+Accuracy:  0.9156
+Average loss:  0.30018020005226137
+Parameters in epoch 89 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 90 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.20045152306556702
+batch: 200 loss: 0.13101589679718018
+batch: 300 loss: 0.21066132187843323
+batch: 400 loss: 0.2931687831878662
+batch: 500 loss: 0.4855693280696869
+batch: 600 loss: 0.3554003834724426
+batch: 700 loss: 0.44860535860061646
+Training completed with 782 steps.
+Average training loss: 0.272778297624588
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9160
+Accuracy:  0.916
+Average loss:  0.30011710629463195
+Parameters in epoch 90 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 91 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3288242816925049
+batch: 200 loss: 0.3302026093006134
+batch: 300 loss: 0.3094654381275177
+batch: 400 loss: 0.15751707553863525
+batch: 500 loss: 0.2182762175798416
+batch: 600 loss: 0.23113828897476196
+batch: 700 loss: 0.38571178913116455
+Training completed with 782 steps.
+Average training loss: 0.2724982436943054
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9161
+Accuracy:  0.9161
+Average loss:  0.3000235430240631
+Parameters in epoch 91 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 92 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.35246244072914124
+batch: 200 loss: 0.17386242747306824
+batch: 300 loss: 0.3400685787200928
+batch: 400 loss: 0.36246174573898315
+batch: 500 loss: 0.32284218072891235
+batch: 600 loss: 0.24915054440498352
+batch: 700 loss: 0.624302864074707
+Training completed with 782 steps.
+Average training loss: 0.2722046052598953
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9159
+Accuracy:  0.9159
+Average loss:  0.29992595348358153
+Parameters in epoch 92 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 93 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1636754721403122
+batch: 200 loss: 0.23099690675735474
+batch: 300 loss: 0.16416506469249725
+batch: 400 loss: 0.29598283767700195
+batch: 500 loss: 0.22912487387657166
+batch: 600 loss: 0.5609956383705139
+batch: 700 loss: 0.46057388186454773
+Training completed with 782 steps.
+Average training loss: 0.27195709857940675
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9160
+Accuracy:  0.916
+Average loss:  0.29990194101333617
+Parameters in epoch 93 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 94 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2600862681865692
+batch: 200 loss: 0.20186516642570496
+batch: 300 loss: 0.22173529863357544
+batch: 400 loss: 0.3370624780654907
+batch: 500 loss: 0.2182663083076477
+batch: 600 loss: 0.31866997480392456
+batch: 700 loss: 0.24397483468055725
+Training completed with 782 steps.
+Average training loss: 0.2716422094488144
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9163
+Accuracy:  0.9163
+Average loss:  0.29944637932777407
+Parameters in epoch 94 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 95 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.10706128925085068
+batch: 200 loss: 0.341044545173645
+batch: 300 loss: 0.24071775376796722
+batch: 400 loss: 0.16134873032569885
+batch: 500 loss: 0.14587800204753876
+batch: 600 loss: 0.15858356654644012
+batch: 700 loss: 0.21434564888477325
+Training completed with 782 steps.
+Average training loss: 0.27144264420986175
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9160
+Accuracy:  0.916
+Average loss:  0.29935088720321656
+Parameters in epoch 95 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 96 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2738178074359894
+batch: 200 loss: 0.37111225724220276
+batch: 300 loss: 0.271116703748703
+batch: 400 loss: 0.2756555676460266
+batch: 500 loss: 0.4494856595993042
+batch: 600 loss: 0.25758710503578186
+batch: 700 loss: 0.2384122908115387
+Training completed with 782 steps.
+Average training loss: 0.2711561534500122
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9167
+Accuracy:  0.9167
+Average loss:  0.2992934186935425
+Parameters in epoch 96 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 97 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.35032591223716736
+batch: 200 loss: 0.14464408159255981
+batch: 300 loss: 0.4753724932670593
+batch: 400 loss: 0.3023887276649475
+batch: 500 loss: 0.1087133139371872
+batch: 600 loss: 0.166399285197258
+batch: 700 loss: 0.24460762739181519
+Training completed with 782 steps.
+Average training loss: 0.2709434433674812
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9165
+Accuracy:  0.9165
+Average loss:  0.2990071563720703
+Parameters in epoch 97 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 98 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2299516797065735
+batch: 200 loss: 0.3830031752586365
+batch: 300 loss: 0.2516251504421234
+batch: 400 loss: 0.18698112666606903
+batch: 500 loss: 0.33471301198005676
+batch: 600 loss: 0.2667003870010376
+batch: 700 loss: 0.143016517162323
+Training completed with 782 steps.
+Average training loss: 0.2705822179079056
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9154
+Accuracy:  0.9154
+Average loss:  0.2992631149291992
+
+Epoch: 99 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.33269035816192627
+batch: 200 loss: 0.20994123816490173
+batch: 300 loss: 0.2586657404899597
+batch: 400 loss: 0.2926000654697418
+batch: 500 loss: 0.26398026943206787
+batch: 600 loss: 0.2143070250749588
+batch: 700 loss: 0.3532833456993103
+Training completed with 782 steps.
+Average training loss: 0.2704402060985565
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9169
+Accuracy:  0.9169
+Average loss:  0.2988306150436401
+Parameters in epoch 99 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 100 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.4755944311618805
+batch: 200 loss: 0.3038613796234131
+batch: 300 loss: 0.2716348171234131
+batch: 400 loss: 0.3394845426082611
+batch: 500 loss: 0.3486309349536896
+batch: 600 loss: 0.24038159847259521
+batch: 700 loss: 0.2057187408208847
+Training completed with 782 steps.
+Average training loss: 0.27019493799209593
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9163
+Accuracy:  0.9163
+Average loss:  0.2986739513397217
+Parameters in epoch 100 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 101 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2794400453567505
+batch: 200 loss: 0.37207451462745667
+batch: 300 loss: 0.3373207449913025
+batch: 400 loss: 0.3889356851577759
+batch: 500 loss: 0.32656562328338623
+batch: 600 loss: 0.37486883997917175
+batch: 700 loss: 0.3362677991390228
+Training completed with 782 steps.
+Average training loss: 0.2698771457576752
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9160
+Accuracy:  0.916
+Average loss:  0.29874559779167176
+
+Epoch: 102 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.13731499016284943
+batch: 200 loss: 0.21828117966651917
+batch: 300 loss: 0.11996317654848099
+batch: 400 loss: 0.3707318902015686
+batch: 500 loss: 0.39379075169563293
+batch: 600 loss: 0.14737454056739807
+batch: 700 loss: 0.20845744013786316
+Training completed with 782 steps.
+Average training loss: 0.26965730901360513
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9164
+Accuracy:  0.9164
+Average loss:  0.29873085942268374
+
+Epoch: 103 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.22566652297973633
+batch: 200 loss: 0.21813227236270905
+batch: 300 loss: 0.30767157673835754
+batch: 400 loss: 0.2630293071269989
+batch: 500 loss: 0.22293922305107117
+batch: 600 loss: 0.1838461309671402
+batch: 700 loss: 0.4235357940196991
+Training completed with 782 steps.
+Average training loss: 0.2693592510509491
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9158
+Accuracy:  0.9158
+Average loss:  0.2986115489959717
+Parameters in epoch 103 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 104 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.34162577986717224
+batch: 200 loss: 0.12293591350317001
+batch: 300 loss: 0.40286391973495483
+batch: 400 loss: 0.23680435121059418
+batch: 500 loss: 0.23426641523838043
+batch: 600 loss: 0.27817970514297485
+batch: 700 loss: 0.3425319194793701
+Training completed with 782 steps.
+Average training loss: 0.26927887036800385
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9165
+Accuracy:  0.9165
+Average loss:  0.2982687839984894
+Parameters in epoch 104 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 105 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1934031993150711
+batch: 200 loss: 0.4280630052089691
+batch: 300 loss: 0.2106989622116089
+batch: 400 loss: 0.24800042808055878
+batch: 500 loss: 0.12679101526737213
+batch: 600 loss: 0.33593571186065674
+batch: 700 loss: 0.36489710211753845
+Training completed with 782 steps.
+Average training loss: 0.26897553256988527
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9163
+Accuracy:  0.9163
+Average loss:  0.29815172572135923
+Parameters in epoch 105 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 106 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.19807839393615723
+batch: 200 loss: 0.15685337781906128
+batch: 300 loss: 0.3902190327644348
+batch: 400 loss: 0.20702506601810455
+batch: 500 loss: 0.24915753304958344
+batch: 600 loss: 0.1963168829679489
+batch: 700 loss: 0.5933023691177368
+Training completed with 782 steps.
+Average training loss: 0.268758576836586
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9165
+Accuracy:  0.9165
+Average loss:  0.2981355920314789
+Parameters in epoch 106 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 107 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.17304421961307526
+batch: 200 loss: 0.11081711202859879
+batch: 300 loss: 0.20845775306224823
+batch: 400 loss: 0.2886340618133545
+batch: 500 loss: 0.2979484796524048
+batch: 600 loss: 0.2860945463180542
+batch: 700 loss: 0.15744416415691376
+Training completed with 782 steps.
+Average training loss: 0.26850046356201174
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9164
+Accuracy:  0.9164
+Average loss:  0.2982386691093445
+
+Epoch: 108 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2176121473312378
+batch: 200 loss: 0.21013857424259186
+batch: 300 loss: 0.30881959199905396
+batch: 400 loss: 0.3457624614238739
+batch: 500 loss: 0.2786233723163605
+batch: 600 loss: 0.2158677726984024
+batch: 700 loss: 0.1712382733821869
+Training completed with 782 steps.
+Average training loss: 0.2683277143383026
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9163
+Accuracy:  0.9163
+Average loss:  0.29792082948684695
+Parameters in epoch 108 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 109 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.32270243763923645
+batch: 200 loss: 0.5254210233688354
+batch: 300 loss: 0.2930312752723694
+batch: 400 loss: 0.15198735892772675
+batch: 500 loss: 0.33167651295661926
+batch: 600 loss: 0.14606833457946777
+batch: 700 loss: 0.2303774356842041
+Training completed with 782 steps.
+Average training loss: 0.26804311185836793
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9167
+Accuracy:  0.9167
+Average loss:  0.29807230925559997
+
+Epoch: 110 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2222701758146286
+batch: 200 loss: 0.2284659743309021
+batch: 300 loss: 0.28885361552238464
+batch: 400 loss: 0.16687165200710297
+batch: 500 loss: 0.23928526043891907
+batch: 600 loss: 0.15734803676605225
+batch: 700 loss: 0.2459484189748764
+Training completed with 782 steps.
+Average training loss: 0.26788882714271545
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9170
+Accuracy:  0.917
+Average loss:  0.2976001789569855
+Parameters in epoch 110 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 111 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.20111986994743347
+batch: 200 loss: 0.2960670590400696
+batch: 300 loss: 0.2655102610588074
+batch: 400 loss: 0.1508614867925644
+batch: 500 loss: 0.1344270259141922
+batch: 600 loss: 0.2144959717988968
+batch: 700 loss: 0.42660829424858093
+Training completed with 782 steps.
+Average training loss: 0.267682088136673
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9166
+Accuracy:  0.9166
+Average loss:  0.2977206983089447
+
+Epoch: 112 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2297290563583374
+batch: 200 loss: 0.15522144734859467
+batch: 300 loss: 0.37964940071105957
+batch: 400 loss: 0.3793453872203827
+batch: 500 loss: 0.22737081348896027
+batch: 600 loss: 0.2633788287639618
+batch: 700 loss: 0.28509950637817383
+Training completed with 782 steps.
+Average training loss: 0.2675204141330719
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9167
+Accuracy:  0.9167
+Average loss:  0.29772140307426453
+
+Epoch: 113 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.325971394777298
+batch: 200 loss: 0.23179706931114197
+batch: 300 loss: 0.4395441710948944
+batch: 400 loss: 0.2688831686973572
+batch: 500 loss: 0.22418871521949768
+batch: 600 loss: 0.16575987637043
+batch: 700 loss: 0.30372312664985657
+Training completed with 782 steps.
+Average training loss: 0.2672730204677582
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9159
+Accuracy:  0.9159
+Average loss:  0.29741937708854677
+Parameters in epoch 113 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 114 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3467635214328766
+batch: 200 loss: 0.16500461101531982
+batch: 300 loss: 0.32675766944885254
+batch: 400 loss: 0.34680289030075073
+batch: 500 loss: 0.2142259031534195
+batch: 600 loss: 0.13366693258285522
+batch: 700 loss: 0.30410104990005493
+Training completed with 782 steps.
+Average training loss: 0.26710416699886325
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9166
+Accuracy:  0.9166
+Average loss:  0.29747604308128356
+
+Epoch: 115 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2000967562198639
+batch: 200 loss: 0.3236128091812134
+batch: 300 loss: 0.37049201130867004
+batch: 400 loss: 0.29119130969047546
+batch: 500 loss: 0.3583582043647766
+batch: 600 loss: 0.38662976026535034
+batch: 700 loss: 0.17595703899860382
+Training completed with 782 steps.
+Average training loss: 0.26689061003685
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9166
+Accuracy:  0.9166
+Average loss:  0.29716148471832277
+Parameters in epoch 115 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 116 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.4931824803352356
+batch: 200 loss: 0.1503608673810959
+batch: 300 loss: 0.14387674629688263
+batch: 400 loss: 0.29321008920669556
+batch: 500 loss: 0.24182002246379852
+batch: 600 loss: 0.5940213203430176
+batch: 700 loss: 0.12751363217830658
+Training completed with 782 steps.
+Average training loss: 0.2666717543411255
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9165
+Accuracy:  0.9165
+Average loss:  0.2970910753250122
+Parameters in epoch 116 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 117 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.35099557042121887
+batch: 200 loss: 0.24333566427230835
+batch: 300 loss: 0.16423580050468445
+batch: 400 loss: 0.25123968720436096
+batch: 500 loss: 0.32398122549057007
+batch: 600 loss: 0.19075454771518707
+batch: 700 loss: 0.33118578791618347
+Training completed with 782 steps.
+Average training loss: 0.26646797092437746
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9165
+Accuracy:  0.9165
+Average loss:  0.29718311071395875
+
+Epoch: 118 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2146378457546234
+batch: 200 loss: 0.22460727393627167
+batch: 300 loss: 0.234889954328537
+batch: 400 loss: 0.2193271368741989
+batch: 500 loss: 0.2558598220348358
+batch: 600 loss: 0.19276291131973267
+batch: 700 loss: 0.31331542134284973
+Training completed with 782 steps.
+Average training loss: 0.2662603787410259
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9167
+Accuracy:  0.9167
+Average loss:  0.29703152103424074
+Parameters in epoch 118 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 119 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.19757439196109772
+batch: 200 loss: 0.21059878170490265
+batch: 300 loss: 0.19780927896499634
+batch: 400 loss: 0.27902233600616455
+batch: 500 loss: 0.290992796421051
+batch: 600 loss: 0.17853765189647675
+batch: 700 loss: 0.23383262753486633
+Training completed with 782 steps.
+Average training loss: 0.26608612956523897
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9171
+Accuracy:  0.9171
+Average loss:  0.2967944694042206
+Parameters in epoch 119 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 120 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.24126341938972473
+batch: 200 loss: 0.28581613302230835
+batch: 300 loss: 0.3216107189655304
+batch: 400 loss: 0.15439064800739288
+batch: 500 loss: 0.5953575968742371
+batch: 600 loss: 0.2598004937171936
+batch: 700 loss: 0.08929186314344406
+Training completed with 782 steps.
+Average training loss: 0.2658940026426315
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9167
+Accuracy:  0.9167
+Average loss:  0.29688333320617677
+
+Epoch: 121 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.25178685784339905
+batch: 200 loss: 0.18509900569915771
+batch: 300 loss: 0.17727594077587128
+batch: 400 loss: 0.2326636016368866
+batch: 500 loss: 0.3322213888168335
+batch: 600 loss: 0.1828392744064331
+batch: 700 loss: 0.31793084740638733
+Training completed with 782 steps.
+Average training loss: 0.26572952174425124
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9166
+Accuracy:  0.9166
+Average loss:  0.2968015188217163
+
+Epoch: 122 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.216520294547081
+batch: 200 loss: 0.2158818393945694
+batch: 300 loss: 0.629131555557251
+batch: 400 loss: 0.17607438564300537
+batch: 500 loss: 0.18031737208366394
+batch: 600 loss: 0.22637659311294556
+batch: 700 loss: 0.20295631885528564
+Training completed with 782 steps.
+Average training loss: 0.2655280868148804
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9173
+Accuracy:  0.9173
+Average loss:  0.29667046394348145
+Parameters in epoch 122 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 123 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3152095675468445
+batch: 200 loss: 0.5398894548416138
+batch: 300 loss: 0.42706435918807983
+batch: 400 loss: 0.23126736283302307
+batch: 500 loss: 0.3446183204650879
+batch: 600 loss: 0.3539755940437317
+batch: 700 loss: 0.17719531059265137
+Training completed with 782 steps.
+Average training loss: 0.2653428122329712
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9169
+Accuracy:  0.9169
+Average loss:  0.2966452060222626
+Parameters in epoch 123 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 124 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3165815770626068
+batch: 200 loss: 0.24012692272663116
+batch: 300 loss: 0.26772603392601013
+batch: 400 loss: 0.22852541506290436
+batch: 500 loss: 0.12809604406356812
+batch: 600 loss: 0.18589557707309723
+batch: 700 loss: 0.25385499000549316
+Training completed with 782 steps.
+Average training loss: 0.2651705168044567
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9167
+Accuracy:  0.9167
+Average loss:  0.29655234842300415
+Parameters in epoch 124 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 125 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2256377637386322
+batch: 200 loss: 0.33840566873550415
+batch: 300 loss: 0.40633425116539
+batch: 400 loss: 0.1143689751625061
+batch: 500 loss: 0.4793093800544739
+batch: 600 loss: 0.4002295136451721
+batch: 700 loss: 0.12261485308408737
+Training completed with 782 steps.
+Average training loss: 0.264992798037529
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9171
+Accuracy:  0.9171
+Average loss:  0.29640405130386355
+Parameters in epoch 125 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 126 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2494639903306961
+batch: 200 loss: 0.24873322248458862
+batch: 300 loss: 0.28245842456817627
+batch: 400 loss: 0.2900487184524536
+batch: 500 loss: 0.09570460766553879
+batch: 600 loss: 0.31638461351394653
+batch: 700 loss: 0.16619883477687836
+Training completed with 782 steps.
+Average training loss: 0.2647070373916626
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9175
+Accuracy:  0.9175
+Average loss:  0.2968561830997467
+
+Epoch: 127 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.39863771200180054
+batch: 200 loss: 0.21639226377010345
+batch: 300 loss: 0.24572831392288208
+batch: 400 loss: 0.20314587652683258
+batch: 500 loss: 0.27057069540023804
+batch: 600 loss: 0.23030798137187958
+batch: 700 loss: 0.33132416009902954
+Training completed with 782 steps.
+Average training loss: 0.26463622505664824
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9174
+Accuracy:  0.9174
+Average loss:  0.29645493540763856
+
+Epoch: 128 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.24674436450004578
+batch: 200 loss: 0.17292866110801697
+batch: 300 loss: 0.2530043423175812
+batch: 400 loss: 0.35897397994995117
+batch: 500 loss: 0.3584359586238861
+batch: 600 loss: 0.2566033899784088
+batch: 700 loss: 0.16360090672969818
+Training completed with 782 steps.
+Average training loss: 0.2644048993372917
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9173
+Accuracy:  0.9173
+Average loss:  0.2966018569469452
+
+Epoch: 129 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.42150983214378357
+batch: 200 loss: 0.14421142637729645
+batch: 300 loss: 0.16144564747810364
+batch: 400 loss: 0.28750112652778625
+batch: 500 loss: 0.2930431663990021
+batch: 600 loss: 0.34969931840896606
+batch: 700 loss: 0.26336395740509033
+Training completed with 782 steps.
+Average training loss: 0.2642972703266144
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9170
+Accuracy:  0.917
+Average loss:  0.2965018832206726
+
+Epoch: 130 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2614392340183258
+batch: 200 loss: 0.2832518219947815
+batch: 300 loss: 0.2842291295528412
+batch: 400 loss: 0.15195898711681366
+batch: 500 loss: 0.23477895557880402
+batch: 600 loss: 0.628095805644989
+batch: 700 loss: 0.23273134231567383
+Training completed with 782 steps.
+Average training loss: 0.2641096772480011
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9174
+Accuracy:  0.9174
+Average loss:  0.29607977633476257
+Parameters in epoch 130 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 131 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.18805727362632751
+batch: 200 loss: 0.15340138971805573
+batch: 300 loss: 0.6487053632736206
+batch: 400 loss: 0.46497708559036255
+batch: 500 loss: 0.5046672224998474
+batch: 600 loss: 0.2327570915222168
+batch: 700 loss: 0.35993796586990356
+Training completed with 782 steps.
+Average training loss: 0.26397162465810775
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9178
+Accuracy:  0.9178
+Average loss:  0.2960421132087708
+Parameters in epoch 131 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 132 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2572194039821625
+batch: 200 loss: 0.21879184246063232
+batch: 300 loss: 0.48733970522880554
+batch: 400 loss: 0.3096221089363098
+batch: 500 loss: 0.21161127090454102
+batch: 600 loss: 0.2621733844280243
+batch: 700 loss: 0.24273334443569183
+Training completed with 782 steps.
+Average training loss: 0.2637928401350975
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9174
+Accuracy:  0.9174
+Average loss:  0.29585157570838927
+Parameters in epoch 132 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 133 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2858986556529999
+batch: 200 loss: 0.29168909788131714
+batch: 300 loss: 0.18468837440013885
+batch: 400 loss: 0.1627427190542221
+batch: 500 loss: 0.19816243648529053
+batch: 600 loss: 0.1430726796388626
+batch: 700 loss: 0.1786738783121109
+Training completed with 782 steps.
+Average training loss: 0.2635795711374283
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9181
+Accuracy:  0.9181
+Average loss:  0.29588677983283995
+
+Epoch: 134 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.37406280636787415
+batch: 200 loss: 0.14858748018741608
+batch: 300 loss: 0.43122372031211853
+batch: 400 loss: 0.1530335247516632
+batch: 500 loss: 0.3362773060798645
+batch: 600 loss: 0.30360642075538635
+batch: 700 loss: 0.17083431780338287
+Training completed with 782 steps.
+Average training loss: 0.263441526556015
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9178
+Accuracy:  0.9178
+Average loss:  0.2960169676303864
+
+Epoch: 135 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2469407021999359
+batch: 200 loss: 0.1874488741159439
+batch: 300 loss: 0.3240380585193634
+batch: 400 loss: 0.18427784740924835
+batch: 500 loss: 0.23728948831558228
+batch: 600 loss: 0.44887810945510864
+batch: 700 loss: 0.2519744634628296
+Training completed with 782 steps.
+Average training loss: 0.2632842510771751
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9170
+Accuracy:  0.917
+Average loss:  0.2959013391494751
+
+Epoch: 136 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.24794946610927582
+batch: 200 loss: 0.22999165952205658
+batch: 300 loss: 0.1981491893529892
+batch: 400 loss: 0.22030092775821686
+batch: 500 loss: 0.14589112997055054
+batch: 600 loss: 0.1833856701850891
+batch: 700 loss: 0.18661731481552124
+Training completed with 782 steps.
+Average training loss: 0.26312741916656496
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9169
+Accuracy:  0.9169
+Average loss:  0.29586561675071715
+
+Epoch: 137 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2436649352312088
+batch: 200 loss: 0.3049653172492981
+batch: 300 loss: 0.24997584521770477
+batch: 400 loss: 0.2416994720697403
+batch: 500 loss: 0.1488432139158249
+batch: 600 loss: 0.2230556756258011
+batch: 700 loss: 0.21667607128620148
+Training completed with 782 steps.
+Average training loss: 0.26297843326568604
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9178
+Accuracy:  0.9178
+Average loss:  0.2957084761619568
+Parameters in epoch 137 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 138 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.23242305219173431
+batch: 200 loss: 0.17097094655036926
+batch: 300 loss: 0.24032646417617798
+batch: 400 loss: 0.2853470742702484
+batch: 500 loss: 0.2825070917606354
+batch: 600 loss: 0.3476850986480713
+batch: 700 loss: 0.14402692019939423
+Training completed with 782 steps.
+Average training loss: 0.2628159429073334
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9183
+Accuracy:  0.9183
+Average loss:  0.29567452840805053
+Parameters in epoch 138 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 139 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2982833981513977
+batch: 200 loss: 0.3974820077419281
+batch: 300 loss: 0.22274743020534515
+batch: 400 loss: 0.4924040138721466
+batch: 500 loss: 0.1608230024576187
+batch: 600 loss: 0.1322849541902542
+batch: 700 loss: 0.38226115703582764
+Training completed with 782 steps.
+Average training loss: 0.26267123071312903
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9178
+Accuracy:  0.9178
+Average loss:  0.29553278670310973
+Parameters in epoch 139 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 140 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2267032116651535
+batch: 200 loss: 0.18810459971427917
+batch: 300 loss: 0.2981201410293579
+batch: 400 loss: 0.27175623178482056
+batch: 500 loss: 0.33644917607307434
+batch: 600 loss: 0.24709799885749817
+batch: 700 loss: 0.10672232508659363
+Training completed with 782 steps.
+Average training loss: 0.26247640699863434
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9179
+Accuracy:  0.9179
+Average loss:  0.29545630559921265
+Parameters in epoch 140 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 141 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.39856407046318054
+batch: 200 loss: 0.1960109919309616
+batch: 300 loss: 0.20989704132080078
+batch: 400 loss: 0.2336674928665161
+batch: 500 loss: 0.3062591850757599
+batch: 600 loss: 0.22585994005203247
+batch: 700 loss: 0.13493631780147552
+Training completed with 782 steps.
+Average training loss: 0.26231434787750246
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9175
+Accuracy:  0.9175
+Average loss:  0.2954409287452698
+Parameters in epoch 141 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 142 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.24831077456474304
+batch: 200 loss: 0.3822218179702759
+batch: 300 loss: 0.3640987277030945
+batch: 400 loss: 0.31036460399627686
+batch: 500 loss: 0.15202639997005463
+batch: 600 loss: 0.24120062589645386
+batch: 700 loss: 0.4183982014656067
+Training completed with 782 steps.
+Average training loss: 0.2621912818431854
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9180
+Accuracy:  0.918
+Average loss:  0.29532735247612
+Parameters in epoch 142 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 143 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.30053845047950745
+batch: 200 loss: 0.3344651460647583
+batch: 300 loss: 0.22002063691616058
+batch: 400 loss: 0.13424630463123322
+batch: 500 loss: 0.22994127869606018
+batch: 600 loss: 0.2575218081474304
+batch: 700 loss: 0.3086104989051819
+Training completed with 782 steps.
+Average training loss: 0.26201457808971407
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9178
+Accuracy:  0.9178
+Average loss:  0.29540083689689633
+
+Epoch: 144 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1745348572731018
+batch: 200 loss: 0.2721657156944275
+batch: 300 loss: 0.3559110462665558
+batch: 400 loss: 0.22135190665721893
+batch: 500 loss: 0.2255781590938568
+batch: 600 loss: 0.25510528683662415
+batch: 700 loss: 0.43767982721328735
+Training completed with 782 steps.
+Average training loss: 0.2619176862859726
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9180
+Accuracy:  0.918
+Average loss:  0.2952034294605255
+Parameters in epoch 144 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 145 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.35068804025650024
+batch: 200 loss: 0.18394026160240173
+batch: 300 loss: 0.42507582902908325
+batch: 400 loss: 0.26855748891830444
+batch: 500 loss: 0.10268497467041016
+batch: 600 loss: 0.3039449155330658
+batch: 700 loss: 0.14662981033325195
+Training completed with 782 steps.
+Average training loss: 0.2617111666345596
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9175
+Accuracy:  0.9175
+Average loss:  0.2954412163734436
+
+Epoch: 146 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.339523047208786
+batch: 200 loss: 0.2588643729686737
+batch: 300 loss: 0.23423653841018677
+batch: 400 loss: 0.22521382570266724
+batch: 500 loss: 0.3686451017856598
+batch: 600 loss: 0.4682006537914276
+batch: 700 loss: 0.14075255393981934
+Training completed with 782 steps.
+Average training loss: 0.26154533636808397
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9176
+Accuracy:  0.9176
+Average loss:  0.2955892479896545
+
+Epoch: 147 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.20703721046447754
+batch: 200 loss: 0.15129894018173218
+batch: 300 loss: 0.4035906195640564
+batch: 400 loss: 0.21274180710315704
+batch: 500 loss: 0.22634071111679077
+batch: 600 loss: 0.19256500899791718
+batch: 700 loss: 0.2617616057395935
+Training completed with 782 steps.
+Average training loss: 0.2614609184741974
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9174
+Accuracy:  0.9174
+Average loss:  0.2951905963420868
+Parameters in epoch 147 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 148 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3534376621246338
+batch: 200 loss: 0.1412595808506012
+batch: 300 loss: 0.13149528205394745
+batch: 400 loss: 0.5493326783180237
+batch: 500 loss: 0.18545076251029968
+batch: 600 loss: 0.45175912976264954
+batch: 700 loss: 0.3844856917858124
+Training completed with 782 steps.
+Average training loss: 0.26126478702545164
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9184
+Accuracy:  0.9184
+Average loss:  0.2950271802902222
+Parameters in epoch 148 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 149 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.25650662183761597
+batch: 200 loss: 0.4859115779399872
+batch: 300 loss: 0.21657250821590424
+batch: 400 loss: 0.3238372504711151
+batch: 500 loss: 0.20440028607845306
+batch: 600 loss: 0.20819322764873505
+batch: 700 loss: 0.2808489203453064
+Training completed with 782 steps.
+Average training loss: 0.2611685558605194
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9183
+Accuracy:  0.9183
+Average loss:  0.2951166917324066
+
+Epoch: 150 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.13433393836021423
+batch: 200 loss: 0.26294195652008057
+batch: 300 loss: 0.17396266758441925
+batch: 400 loss: 0.3619050979614258
+batch: 500 loss: 0.43284785747528076
+batch: 600 loss: 0.12406225502490997
+batch: 700 loss: 0.1856231838464737
+Training completed with 782 steps.
+Average training loss: 0.26103526277303696
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9183
+Accuracy:  0.9183
+Average loss:  0.29486202092170716
+Parameters in epoch 150 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 151 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.29706063866615295
+batch: 200 loss: 0.2275453507900238
+batch: 300 loss: 0.3441437780857086
+batch: 400 loss: 0.17051561176776886
+batch: 500 loss: 0.23931053280830383
+batch: 600 loss: 0.45566627383232117
+batch: 700 loss: 0.1548917442560196
+Training completed with 782 steps.
+Average training loss: 0.2608580132865906
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9183
+Accuracy:  0.9183
+Average loss:  0.29493186407089234
+
+Epoch: 152 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.14337407052516937
+batch: 200 loss: 0.35309258103370667
+batch: 300 loss: 0.1578369438648224
+batch: 400 loss: 0.19694465398788452
+batch: 500 loss: 0.19583748281002045
+batch: 600 loss: 0.7466030120849609
+batch: 700 loss: 0.25670260190963745
+Training completed with 782 steps.
+Average training loss: 0.26078551452636717
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9184
+Accuracy:  0.9184
+Average loss:  0.29489383373260497
+
+Epoch: 153 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.20079432427883148
+batch: 200 loss: 0.2347063273191452
+batch: 300 loss: 0.20734508335590363
+batch: 400 loss: 0.2995997667312622
+batch: 500 loss: 0.3842996656894684
+batch: 600 loss: 0.2370690256357193
+batch: 700 loss: 0.2986963391304016
+Training completed with 782 steps.
+Average training loss: 0.26057633027553556
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9179
+Accuracy:  0.9179
+Average loss:  0.2948602809429169
+Parameters in epoch 153 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 154 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1779998540878296
+batch: 200 loss: 0.25678128004074097
+batch: 300 loss: 0.15522362291812897
+batch: 400 loss: 0.46725085377693176
+batch: 500 loss: 0.21694990992546082
+batch: 600 loss: 0.1500045359134674
+batch: 700 loss: 0.20943647623062134
+Training completed with 782 steps.
+Average training loss: 0.2604814599132538
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9174
+Accuracy:  0.9174
+Average loss:  0.29512273888587953
+
+Epoch: 155 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2864363193511963
+batch: 200 loss: 0.19136860966682434
+batch: 300 loss: 0.16824249923229218
+batch: 400 loss: 0.2246861457824707
+batch: 500 loss: 0.21527230739593506
+batch: 600 loss: 0.2004491239786148
+batch: 700 loss: 0.3395450711250305
+Training completed with 782 steps.
+Average training loss: 0.2602846343898773
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9182
+Accuracy:  0.9182
+Average loss:  0.294814696264267
+Parameters in epoch 155 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 156 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.23100116848945618
+batch: 200 loss: 0.34263285994529724
+batch: 300 loss: 0.12224247306585312
+batch: 400 loss: 0.18301095068454742
+batch: 500 loss: 0.2294500172138214
+batch: 600 loss: 0.1527651697397232
+batch: 700 loss: 0.23282551765441895
+Training completed with 782 steps.
+Average training loss: 0.26020841797828675
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9185
+Accuracy:  0.9185
+Average loss:  0.2946466712474823
+Parameters in epoch 156 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 157 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.07079160213470459
+batch: 200 loss: 0.19973737001419067
+batch: 300 loss: 0.33894023299217224
+batch: 400 loss: 0.397920161485672
+batch: 500 loss: 0.21852648258209229
+batch: 600 loss: 0.12929414212703705
+batch: 700 loss: 0.18520523607730865
+Training completed with 782 steps.
+Average training loss: 0.26004951157569883
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9177
+Accuracy:  0.9177
+Average loss:  0.29467584018707277
+
+Epoch: 158 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.14302469789981842
+batch: 200 loss: 0.2612668573856354
+batch: 300 loss: 0.32066717743873596
+batch: 400 loss: 0.29714933037757874
+batch: 500 loss: 0.5243667364120483
+batch: 600 loss: 0.2292616218328476
+batch: 700 loss: 0.2703934609889984
+Training completed with 782 steps.
+Average training loss: 0.2599331419563293
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9178
+Accuracy:  0.9178
+Average loss:  0.29488351259231566
+
+Epoch: 159 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.20532435178756714
+batch: 200 loss: 0.585210382938385
+batch: 300 loss: 0.2625381648540497
+batch: 400 loss: 0.20574118196964264
+batch: 500 loss: 0.24813298881053925
+batch: 600 loss: 0.11229020357131958
+batch: 700 loss: 0.32876303791999817
+Training completed with 782 steps.
+Average training loss: 0.2598006115794182
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9182
+Accuracy:  0.9182
+Average loss:  0.2945962959766388
+Parameters in epoch 159 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 160 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2219781130552292
+batch: 200 loss: 0.22531653940677643
+batch: 300 loss: 0.1708056479692459
+batch: 400 loss: 0.2806277275085449
+batch: 500 loss: 0.22462818026542664
+batch: 600 loss: 0.3522915542125702
+batch: 700 loss: 0.1776457577943802
+Training completed with 782 steps.
+Average training loss: 0.2596776600265503
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9179
+Accuracy:  0.9179
+Average loss:  0.2948503349304199
+
+Epoch: 161 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2418356090784073
+batch: 200 loss: 0.3325590193271637
+batch: 300 loss: 0.33938342332839966
+batch: 400 loss: 0.4168045222759247
+batch: 500 loss: 0.19895654916763306
+batch: 600 loss: 0.2013816386461258
+batch: 700 loss: 0.38545963168144226
+Training completed with 782 steps.
+Average training loss: 0.25957315368771555
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9179
+Accuracy:  0.9179
+Average loss:  0.2947285952568054
+
+Epoch: 162 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3942718803882599
+batch: 200 loss: 0.1510472297668457
+batch: 300 loss: 0.38542017340660095
+batch: 400 loss: 0.18367567658424377
+batch: 500 loss: 0.3385225832462311
+batch: 600 loss: 0.26381736993789673
+batch: 700 loss: 0.3064051568508148
+Training completed with 782 steps.
+Average training loss: 0.25940549221038817
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9180
+Accuracy:  0.918
+Average loss:  0.294605250453949
+
+Epoch: 163 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1458718180656433
+batch: 200 loss: 0.11977221071720123
+batch: 300 loss: 0.18214020133018494
+batch: 400 loss: 0.21091744303703308
+batch: 500 loss: 0.17542168498039246
+batch: 600 loss: 0.1227010190486908
+batch: 700 loss: 0.37824931740760803
+Training completed with 782 steps.
+Average training loss: 0.25929788955450056
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9184
+Accuracy:  0.9184
+Average loss:  0.29447352261543275
+Parameters in epoch 163 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 164 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.09561454504728317
+batch: 200 loss: 0.08626596629619598
+batch: 300 loss: 0.27362531423568726
+batch: 400 loss: 0.29209235310554504
+batch: 500 loss: 0.18151508271694183
+batch: 600 loss: 0.5020384192466736
+batch: 700 loss: 0.4436718225479126
+Training completed with 782 steps.
+Average training loss: 0.2591466352772713
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9182
+Accuracy:  0.9182
+Average loss:  0.29442288646698
+Parameters in epoch 164 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 165 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.31358158588409424
+batch: 200 loss: 0.2475334256887436
+batch: 300 loss: 0.49173471331596375
+batch: 400 loss: 0.3613889217376709
+batch: 500 loss: 0.23226146399974823
+batch: 600 loss: 0.4843825399875641
+batch: 700 loss: 0.18131868541240692
+Training completed with 782 steps.
+Average training loss: 0.2590747725152969
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9182
+Accuracy:  0.9182
+Average loss:  0.29438773636817933
+Parameters in epoch 165 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 166 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.32928144931793213
+batch: 200 loss: 0.2193489819765091
+batch: 300 loss: 0.4317297637462616
+batch: 400 loss: 0.18619182705879211
+batch: 500 loss: 0.10749513655900955
+batch: 600 loss: 0.38538658618927
+batch: 700 loss: 0.16608864068984985
+Training completed with 782 steps.
+Average training loss: 0.25894038126945496
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9178
+Accuracy:  0.9178
+Average loss:  0.29456770935058596
+
+Epoch: 167 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2086528241634369
+batch: 200 loss: 0.22111260890960693
+batch: 300 loss: 0.19327396154403687
+batch: 400 loss: 0.36968791484832764
+batch: 500 loss: 0.2574732303619385
+batch: 600 loss: 0.255353718996048
+batch: 700 loss: 0.40846389532089233
+Training completed with 782 steps.
+Average training loss: 0.2588066499519348
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9185
+Accuracy:  0.9185
+Average loss:  0.2942705286026001
+Parameters in epoch 167 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 168 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.200901597738266
+batch: 200 loss: 0.14441213011741638
+batch: 300 loss: 0.24213266372680664
+batch: 400 loss: 0.156033456325531
+batch: 500 loss: 0.28627389669418335
+batch: 600 loss: 0.254794180393219
+batch: 700 loss: 0.23443523049354553
+Training completed with 782 steps.
+Average training loss: 0.2586692397141457
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9176
+Accuracy:  0.9176
+Average loss:  0.2945271603107452
+
+Epoch: 169 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.6179845929145813
+batch: 200 loss: 0.5292099118232727
+batch: 300 loss: 0.22187495231628418
+batch: 400 loss: 0.1368035078048706
+batch: 500 loss: 0.24264568090438843
+batch: 600 loss: 0.2003471702337265
+batch: 700 loss: 0.3436709940433502
+Training completed with 782 steps.
+Average training loss: 0.25856515504837035
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9178
+Accuracy:  0.9178
+Average loss:  0.29448092861175534
+
+Epoch: 170 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.26263943314552307
+batch: 200 loss: 0.21229954063892365
+batch: 300 loss: 0.27340230345726013
+batch: 400 loss: 0.2956402003765106
+batch: 500 loss: 0.33401525020599365
+batch: 600 loss: 0.1915546953678131
+batch: 700 loss: 0.08527451008558273
+Training completed with 782 steps.
+Average training loss: 0.2584429200553894
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9186
+Accuracy:  0.9186
+Average loss:  0.2941844966888428
+Parameters in epoch 170 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 171 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.4107285737991333
+batch: 200 loss: 0.1659584641456604
+batch: 300 loss: 0.22477197647094727
+batch: 400 loss: 0.24783813953399658
+batch: 500 loss: 0.26170235872268677
+batch: 600 loss: 0.25008875131607056
+batch: 700 loss: 0.29745596647262573
+Training completed with 782 steps.
+Average training loss: 0.2583045119380951
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9181
+Accuracy:  0.9181
+Average loss:  0.29427447052001954
+
+Epoch: 172 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2389702945947647
+batch: 200 loss: 0.4641526937484741
+batch: 300 loss: 0.17204321920871735
+batch: 400 loss: 0.24183382093906403
+batch: 500 loss: 0.23347848653793335
+batch: 600 loss: 0.31773415207862854
+batch: 700 loss: 0.20321966707706451
+Training completed with 782 steps.
+Average training loss: 0.25812098295211794
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9175
+Accuracy:  0.9175
+Average loss:  0.2945829261302948
+
+Epoch: 173 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.27488142251968384
+batch: 200 loss: 0.2531900107860565
+batch: 300 loss: 0.2339155524969101
+batch: 400 loss: 0.15091107785701752
+batch: 500 loss: 0.30404984951019287
+batch: 600 loss: 0.12618182599544525
+batch: 700 loss: 0.16886049509048462
+Training completed with 782 steps.
+Average training loss: 0.2581081572818756
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9182
+Accuracy:  0.9182
+Average loss:  0.2940080115318298
+Parameters in epoch 173 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 174 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.35326874256134033
+batch: 200 loss: 0.208319291472435
+batch: 300 loss: 0.37178415060043335
+batch: 400 loss: 0.2551707625389099
+batch: 500 loss: 0.3821519911289215
+batch: 600 loss: 0.29186779260635376
+batch: 700 loss: 0.4071049094200134
+Training completed with 782 steps.
+Average training loss: 0.25790933669567107
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9181
+Accuracy:  0.9181
+Average loss:  0.29424986662864683
+
+Epoch: 175 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.32622984051704407
+batch: 200 loss: 0.20621253550052643
+batch: 300 loss: 0.2605237364768982
+batch: 400 loss: 0.19675152003765106
+batch: 500 loss: 0.16056330502033234
+batch: 600 loss: 0.279876172542572
+batch: 700 loss: 0.38766106963157654
+Training completed with 782 steps.
+Average training loss: 0.2578340551185608
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9184
+Accuracy:  0.9184
+Average loss:  0.2940947711467743
+
+Epoch: 176 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2477622777223587
+batch: 200 loss: 0.22105903923511505
+batch: 300 loss: 0.23807403445243835
+batch: 400 loss: 0.29347580671310425
+batch: 500 loss: 0.17285826802253723
+batch: 600 loss: 0.22330471873283386
+batch: 700 loss: 0.12520286440849304
+Training completed with 782 steps.
+Average training loss: 0.25770065390110014
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9182
+Accuracy:  0.9182
+Average loss:  0.29424889450073244
+
+Epoch: 177 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.28441423177719116
+batch: 200 loss: 0.24490493535995483
+batch: 300 loss: 0.1820465475320816
+batch: 400 loss: 0.2601667642593384
+batch: 500 loss: 0.2371021956205368
+batch: 600 loss: 0.24050626158714294
+batch: 700 loss: 0.3625519573688507
+Training completed with 782 steps.
+Average training loss: 0.2576239344596863
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9186
+Accuracy:  0.9186
+Average loss:  0.29404230260849
+
+Epoch: 178 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1933983862400055
+batch: 200 loss: 0.5121523141860962
+batch: 300 loss: 0.4504190683364868
+batch: 400 loss: 0.13076506555080414
+batch: 500 loss: 0.41886642575263977
+batch: 600 loss: 0.3071276545524597
+batch: 700 loss: 0.16151516139507294
+Training completed with 782 steps.
+Average training loss: 0.2575241170978546
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9177
+Accuracy:  0.9177
+Average loss:  0.29409206619262696
+
+Epoch: 179 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.23058797419071198
+batch: 200 loss: 0.17800664901733398
+batch: 300 loss: 0.20766039192676544
+batch: 400 loss: 0.2685224711894989
+batch: 500 loss: 0.32232558727264404
+batch: 600 loss: 0.3553815186023712
+batch: 700 loss: 0.31289559602737427
+Training completed with 782 steps.
+Average training loss: 0.2574206227302551
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9187
+Accuracy:  0.9187
+Average loss:  0.2939018416404724
+Parameters in epoch 179 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 180 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2907140254974365
+batch: 200 loss: 0.1577354371547699
+batch: 300 loss: 0.1411760300397873
+batch: 400 loss: 0.2963135242462158
+batch: 500 loss: 0.3143988251686096
+batch: 600 loss: 0.41692283749580383
+batch: 700 loss: 0.2259395867586136
+Training completed with 782 steps.
+Average training loss: 0.2572006047821045
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9187
+Accuracy:  0.9187
+Average loss:  0.29390811939239503
+
+Epoch: 181 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2881922125816345
+batch: 200 loss: 0.4072416424751282
+batch: 300 loss: 0.31589239835739136
+batch: 400 loss: 0.2599431276321411
+batch: 500 loss: 0.30673468112945557
+batch: 600 loss: 0.3456262946128845
+batch: 700 loss: 0.286479115486145
+Training completed with 782 steps.
+Average training loss: 0.2571837765312195
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9189
+Accuracy:  0.9189
+Average loss:  0.29389433164596557
+Parameters in epoch 181 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 182 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.3378288745880127
+batch: 200 loss: 0.21569159626960754
+batch: 300 loss: 0.3882768750190735
+batch: 400 loss: 0.2774442434310913
+batch: 500 loss: 0.467327743768692
+batch: 600 loss: 0.5342475771903992
+batch: 700 loss: 0.10729775577783585
+Training completed with 782 steps.
+Average training loss: 0.2570815830802918
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9186
+Accuracy:  0.9186
+Average loss:  0.29388671560287477
+Parameters in epoch 182 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 183 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1581345498561859
+batch: 200 loss: 0.1352519690990448
+batch: 300 loss: 0.25031718611717224
+batch: 400 loss: 0.23612697422504425
+batch: 500 loss: 0.15643393993377686
+batch: 600 loss: 0.3622254431247711
+batch: 700 loss: 0.6348468065261841
+Training completed with 782 steps.
+Average training loss: 0.25692991337776183
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9184
+Accuracy:  0.9184
+Average loss:  0.29394239292144775
+
+Epoch: 184 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.20804312825202942
+batch: 200 loss: 0.5615382790565491
+batch: 300 loss: 0.13855832815170288
+batch: 400 loss: 0.21430985629558563
+batch: 500 loss: 0.30535340309143066
+batch: 600 loss: 0.23681913316249847
+batch: 700 loss: 0.17076899111270905
+Training completed with 782 steps.
+Average training loss: 0.2568628735971451
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9189
+Accuracy:  0.9189
+Average loss:  0.2938304008960724
+Parameters in epoch 184 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 185 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1219073235988617
+batch: 200 loss: 0.13204582035541534
+batch: 300 loss: 0.5005549192428589
+batch: 400 loss: 0.4154503345489502
+batch: 500 loss: 0.12870125472545624
+batch: 600 loss: 0.31334295868873596
+batch: 700 loss: 0.29053395986557007
+Training completed with 782 steps.
+Average training loss: 0.25671832279086115
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9194
+Accuracy:  0.9194
+Average loss:  0.2937924819469452
+Parameters in epoch 185 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 186 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.42959120869636536
+batch: 200 loss: 0.318576455116272
+batch: 300 loss: 0.2767331898212433
+batch: 400 loss: 0.24895811080932617
+batch: 500 loss: 0.2883361279964447
+batch: 600 loss: 0.23951862752437592
+batch: 700 loss: 0.1539527177810669
+Training completed with 782 steps.
+Average training loss: 0.25660431914806364
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9182
+Accuracy:  0.9182
+Average loss:  0.2936026753425598
+Parameters in epoch 186 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 187 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.22812967002391815
+batch: 200 loss: 0.15957534313201904
+batch: 300 loss: 0.21851207315921783
+batch: 400 loss: 0.23008035123348236
+batch: 500 loss: 0.40149322152137756
+batch: 600 loss: 0.3286570608615875
+batch: 700 loss: 0.1810561865568161
+Training completed with 782 steps.
+Average training loss: 0.2564908943223953
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9193
+Accuracy:  0.9193
+Average loss:  0.2935193614959717
+Parameters in epoch 187 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 188 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.27390047907829285
+batch: 200 loss: 0.4128844141960144
+batch: 300 loss: 0.25395259261131287
+batch: 400 loss: 0.09900019317865372
+batch: 500 loss: 0.12181548774242401
+batch: 600 loss: 0.33457469940185547
+batch: 700 loss: 0.22016015648841858
+Training completed with 782 steps.
+Average training loss: 0.2564071473789215
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9187
+Accuracy:  0.9187
+Average loss:  0.29404856066703794
+
+Epoch: 189 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.29229047894477844
+batch: 200 loss: 0.8249927163124084
+batch: 300 loss: 0.08958909660577774
+batch: 400 loss: 0.16525542736053467
+batch: 500 loss: 0.19224336743354797
+batch: 600 loss: 0.26612237095832825
+batch: 700 loss: 0.22810658812522888
+Training completed with 782 steps.
+Average training loss: 0.25633306624889374
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9191
+Accuracy:  0.9191
+Average loss:  0.2934654155731201
+Parameters in epoch 189 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 190 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.20978055894374847
+batch: 200 loss: 0.1528727412223816
+batch: 300 loss: 0.1819692850112915
+batch: 400 loss: 0.18335095047950745
+batch: 500 loss: 0.16678644716739655
+batch: 600 loss: 0.2760929465293884
+batch: 700 loss: 0.41202592849731445
+Training completed with 782 steps.
+Average training loss: 0.256169971203804
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9176
+Accuracy:  0.9176
+Average loss:  0.29413999733924867
+
+Epoch: 191 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.1930454671382904
+batch: 200 loss: 0.22689342498779297
+batch: 300 loss: 0.35832539200782776
+batch: 400 loss: 0.32556283473968506
+batch: 500 loss: 0.22673362493515015
+batch: 600 loss: 0.4511956572532654
+batch: 700 loss: 0.1221400573849678
+Training completed with 782 steps.
+Average training loss: 0.2561127836513519
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9189
+Accuracy:  0.9189
+Average loss:  0.29340185008049013
+Parameters in epoch 191 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 192 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.24612025916576385
+batch: 200 loss: 0.16829578578472137
+batch: 300 loss: 0.277464896440506
+batch: 400 loss: 0.21990966796875
+batch: 500 loss: 0.15155866742134094
+batch: 600 loss: 0.2239428013563156
+batch: 700 loss: 0.15106062591075897
+Training completed with 782 steps.
+Average training loss: 0.25600034627199175
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9185
+Accuracy:  0.9185
+Average loss:  0.29351358704566954
+
+Epoch: 193 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.5924694538116455
+batch: 200 loss: 0.42658674716949463
+batch: 300 loss: 0.3040770888328552
+batch: 400 loss: 0.31569117307662964
+batch: 500 loss: 0.32655811309814453
+batch: 600 loss: 0.23211313784122467
+batch: 700 loss: 0.20935620367527008
+Training completed with 782 steps.
+Average training loss: 0.2558725659227371
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9186
+Accuracy:  0.9186
+Average loss:  0.2933306565284729
+Parameters in epoch 193 is saved to /home/luming/project/pytorch exercise/par/mlp/mnist_linear.pt
+
+Epoch: 194 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.17010778188705444
+batch: 200 loss: 0.451077401638031
+batch: 300 loss: 0.2855546474456787
+batch: 400 loss: 0.2838934063911438
+batch: 500 loss: 0.15087890625
+batch: 600 loss: 0.2141883820295334
+batch: 700 loss: 0.22216227650642395
+Training completed with 782 steps.
+Average training loss: 0.2558185476779938
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9188
+Accuracy:  0.9188
+Average loss:  0.29353792638778686
+
+Epoch: 195 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.34787195920944214
+batch: 200 loss: 0.21885104477405548
+batch: 300 loss: 0.14933517575263977
+batch: 400 loss: 0.07374776899814606
+batch: 500 loss: 0.12598004937171936
+batch: 600 loss: 0.4038780927658081
+batch: 700 loss: 0.3255402147769928
+Training completed with 782 steps.
+Average training loss: 0.25568680731773374
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9186
+Accuracy:  0.9186
+Average loss:  0.2937433192253113
+
+Epoch: 196 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.22676216065883636
+batch: 200 loss: 0.1894187480211258
+batch: 300 loss: 0.12908343970775604
+batch: 400 loss: 0.20338498055934906
+batch: 500 loss: 0.13398943841457367
+batch: 600 loss: 0.16104519367218018
+batch: 700 loss: 0.1522970050573349
+Training completed with 782 steps.
+Average training loss: 0.2555900059986114
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9183
+Accuracy:  0.9183
+Average loss:  0.2935785073280334
+
+Epoch: 197 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.23494717478752136
+batch: 200 loss: 0.23719201982021332
+batch: 300 loss: 0.11772186309099197
+batch: 400 loss: 0.2012341171503067
+batch: 500 loss: 0.27097904682159424
+batch: 600 loss: 0.258119136095047
+batch: 700 loss: 0.2086528092622757
+Training completed with 782 steps.
+Average training loss: 0.25548787436485293
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9191
+Accuracy:  0.9191
+Average loss:  0.29344087843894956
+
+Epoch: 198 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.21466763317584991
+batch: 200 loss: 0.3887314796447754
+batch: 300 loss: 0.20044450461864471
+batch: 400 loss: 0.25591841340065
+batch: 500 loss: 0.2084721475839615
+batch: 600 loss: 0.3651524484157562
+batch: 700 loss: 0.2415093183517456
+Training completed with 782 steps.
+Average training loss: 0.2553723701095581
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9187
+Accuracy:  0.9187
+Average loss:  0.29357363982200624
+
+Epoch: 199 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.2788783609867096
+batch: 200 loss: 0.23100541532039642
+batch: 300 loss: 0.3044809401035309
+batch: 400 loss: 0.30909422039985657
+batch: 500 loss: 0.19498005509376526
+batch: 600 loss: 0.36460208892822266
+batch: 700 loss: 0.28071731328964233
+Training completed with 782 steps.
+Average training loss: 0.2553148397493362
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9187
+Accuracy:  0.9187
+Average loss:  0.2935001084327698
+
+Epoch: 200 / 200
+----------Training starts----------
+
+batch: 100 loss: 0.39919307827949524
+batch: 200 loss: 0.2493537813425064
+batch: 300 loss: 0.17322272062301636
+batch: 400 loss: 0.22191022336483002
+batch: 500 loss: 0.1330706924200058
+batch: 600 loss: 0.36732426285743713
+batch: 700 loss: 0.1456620991230011
+Training completed with 782 steps.
+Average training loss: 0.25519615142822266
+----------Validation starts----------
+
+Cases tested:  10000
+Cases passed:  9186
+Accuracy:  0.9186
+Average loss:  0.29341538543701173
+Training and validation done in 200 epochs.
+
+Best epoch:  193
+Best validation loss:  0.2933306565284729
+
+----------Testing starts----------
+
+Cases tested:  10000
+Cases passed:  9249
+Accuracy:  0.9249
+Average loss:  0.2692694006741047
