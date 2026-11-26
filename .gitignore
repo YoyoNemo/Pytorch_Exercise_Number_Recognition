@@ -234,3 +234,6 @@ pretrained_mnistvit/
 *.jpg
 *.jpeg
 *.heif
+
+# Local text files
+*.txt
